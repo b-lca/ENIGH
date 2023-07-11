@@ -1,0 +1,12 @@
+forma_pag1,forma_pag1 codificación
+00,No aplica
+01,Efectivo
+02,Fiado (persona particular o establecimiento comercial)
+03,Domiciliación
+04,Transferencia electrónica de fondos
+05,Tarjeta de crédito
+06,Tarjeta de débito
+07,Cheque
+08,Vale
+09,Pago móvil
+10,Otro
