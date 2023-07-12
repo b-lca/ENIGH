@@ -1,763 +1,763 @@
-clave,clave codificación
-A001,Maíz en grano (de todo tipo y color)
-A002,"Harina de maíz, maicena, fécula, nixtamalizada para tortillas, para atole y harina para tamales"
-A003,Masa de maíz (de todo tipo y color)
-A004,Tortilla de maíz (de todo tipo y color)
-A005,"Tostadas, raspadas, tostitos, totopos, tlayudas"
-A006,Otros productos de maíz (excepto cereal)
-A007,Harina de trigo
-A008,Tortilla de harina
-A009,Pasta para sopa
-A010,Galletas dulces
-A011,Galletas saladas
-A012,"Pan blanco: bolillo, telera, baguete, etcétera"
-A013,Pan dulce en piezas (de todo tipo)
-A014,Pan dulce empaquetado
-A015,"Pan para sándwich, hamburguesa, hot dog y tostado"
-A016,"Pasteles y pastelillos en piezas o a granel, pastel casero"
-A017,Pasteles y pastelillos empaquetados
-A018,"Trigo en grano, otros productos de trigo (excepto cereal)"
-A019,Arroz en grano
-A020,Otros productos de arroz
-A021,"Cereal de maíz, de trigo, de arroz, de avena, de granola, etcétera"
-A022,"Botanas: frituras, palomitas, cheetos, doritos, etcétera (excepto papas)"
-A023,Sopas instantáneas
-A024,Otros cereales (excepto cereal)
-A025,Bistec de res (de cualquier parte que se saque)
-A026,"Arrachera, filete"
-A027,Milanesa de res
-A028,Chamorro de res
-A029,Chuleta de costilla de res
-A030,"Agujas, aldilla, chambarete, diezmillo, espinazo, fajilla de res para asar, retazo, tampiqueña"
-A031,Cocido de res
-A032,Cortes especiales de res
-A033,Hamburguesas de res para asar
-A034,Molida de res
-A035,Pulpa de res en trozo
-A036,Carne de otras partes de la res
-A037,Vísceras de res
-A038,Bistec de puerco (de cualquier parte que se saque)
-A039,Pierna de puerco en trozo
-A040,Pulpa de puerco en trozo
-A041,Molida de puerco
-A042,Costilla y chuleta de puerco
-A043,Espaldilla de puerco
-A044,Codillo de puerco
-A045,Carne de otras partes del puerco
-A046,Vísceras de puerco
-A047,Carne enchilada
-A048,Chicharrón de puerco
-A049,Chorizo con cualquier condimento y color y longaniza
-A050,Chuleta ahumada de puerco
-A051,Machaca y carne seca
-A052,Jamón de puerco
-A053,"Mortadela, queso de puerco y salami, bolonia de carnes surtidas"
-A054,Lardo procesado (tocino)
-A055,Salchichas y salchichón
-A056,"Otras carnes procesadas, cueritos"
-A057,"Pierna, muslo o pechuga de pollo con hueso"
-A058,"Pierna, muslo o pechuga de pollo sin hueso"
-A059,"Pollo entero o en piezas (excepto, pierna, muslo y pechuga)"
-A060,Vísceras y otras partes del pollo
-A061,Otras aves
-A062,"Chorizo de pollo, jamón y nugget, salchicha, mortadela, etcétera"
-A063,Borrego y carnero
-A064,Chivo y cabrito
-A065,"Otras carnes: caballo, conejo, iguana, jabalí, rana, tortuga"
-A066,Pescado entero limpio y sin limpiar
-A067,Filete de pescado
-A068,Atún enlatado
-A069,Salmón y bacalao procesado
-A070,"Pescado ahumado, seco, nugget, sardina, etcétera"
-A071,"Anguilas, angulas, hueva de pescado, mantarraya, pejelagarto, pejelagarto, etcétera"
-A072,Camarón fresco
-A073,Mariscos frescos
-A074,Mariscos procesados
-A075,Leche pasteurizada de vaca
-A076,Leche condensada
-A077,Leche evaporada
-A078,Leche en polvo entera o descremada
-A079,Leche modificada o maternizada
-A080,Leche no pasteurizada (leche bronca)
-A081,"Otras leches: de burra, de cabra, de soya"
-A082,Queso amarillo en rebanadas o para untar
-A083,Queso añejo y cotija
-A084,Queso chihuahua
-A085,Queso fresco
-A086,Queso manchego
-A087,Queso oaxaca o asadero
-A088,Otros quesos
-A089,Crema
-A090,Mantequilla
-A091,Bebidas fermentadas de leche
-A092,Otros derivados de la leche
-A093,Huevo de gallina blanco y rojo
-A094,"Otros huevos: codorniz, pata, pava, etcétera"
-A095,"Aceite vegetal: canola, cártamo, girasol, maíz, etcétera"
-A096,"Aceite de coco, oliva, soya"
-A097,Margarina
-A098,Manteca de puerco
-A099,Manteca vegetal
-A100,"Otros aceites: de bacalao, de tiburón, de tortuga, enjundia"
-A101,Betabel y camote
-A102,Papa
-A103,Rábano
-A104,Otros tubérculos
-A105,Harina para puré de papa
-A106,Papas fritas en bolsa o a granel
-A107,"Acelgas, espinacas y verdolagas, quintolines, quelites y pipica"
-A108,Aguacate
-A109,Ajo
-A110,Brócoli
-A111,Calabacita y calabaza
-A112,Cebolla
-A113,Chayote
-A114,Chícharo
-A115,Chile jalapeño
-A116,Chile poblano
-A117,Chile serrano
-A118,Otros chiles
-A119,Cilantro
-A120,Col y repollo
-A121,Ejote
-A122,Elote
-A123,Epazote
-A124,Jitomate
-A125,Lechuga
-A126,Nopal
-A127,Pepino
-A128,Perejil y yerbabuena
-A129,Tomate verde
-A130,Zanahoria
-A131,"Otras verduras, pápalo, aceitunas, flor de calabaza, chaya"
-A132,"Germinados de maíz, de soya, de trigo, de alfalfa"
-A133,Chiles envasados
-A134,Chile secos o en polvo
-A135,"Verduras y legumbres envasadas , aceitunas, verduras encurtidas"
-A136,Verduras y legumbres congeladas
-A137,Frijol en grano
-A138,Garbanzo en grano
-A139,Haba amarilla o verde en grano
-A140,Lenteja en grano
-A141,Otras leguminosas en grano
-A142,Frijol procesado
-A143,Otras leguminosas procesadas
-A144,Semillas a granel
-A145,Semillas envasadas
-A146,"Semillas procesadas, soya texturizada"
-A147,"Anona, chirimoya, guanábana"
-A148,"Cereza, frambuesa, fresa, zarzamora"
-A149,"Chabacano, durazno, melocotón"
-A150,Chicozapote y mamey
-A151,Ciruela y jobo
-A152,Guayaba
-A153,Lima
-A154,Limón
-A155,"Mandarina, nectarina, tangerina"
-A156,Toronja
-A157,Mango
-A158,Manzana y perón
-A159,Melón
-A160,Naranja
-A161,Papaya
-A162,Pera
-A163,Piña
-A164,Pitahaya y tuna
-A165,Plátano macho y de castilla
-A166,Plátano verde y tabasco
-A167,"Otros plátanos (chiapas, dominico, guineo, manzano, dorado, portalimón y roatan)"
-A168,Sandía
-A169,Uva
-A170,"Otras frutas: garambullo, granada, higo, jícama, kiwi, etcétera, arreglo frutal"
-A171,Frutas en almíbar y conserva
-A172,"Frutas cristalizadas, enchiladas y secas"
-A173,Azúcar blanca y morena
-A174,Miel de abeja
-A175,Otras azúcares y mieles
-A176,Café tostado en grano molido
-A177,"Café tostado soluble, capuchino"
-A178,Flor y hojas para té
-A179,Té soluble (cualquier sabor)
-A180,Chocolate en tableta
-A181,Chocolate en polvo
-A182,Otros chocolates
-A183,Canela
-A184,Clavo
-A185,Yerbas de olor
-A186,"Concentrados de pollo, tomate, camarón y res"
-A187,Mayonesa
-A188,Mole en pasta o en polvo
-A189,Mostaza
-A190,Pimienta
-A191,Sal
-A192,Salsas dulces y picantes
-A193,Vinagre
-A194,"Otros aderezos, especies y salsas, vainilla"
-A195,"Cereal de arroz, avena, plátano, manzana, mixto para bebé"
-A196,Papillas para bebé
-A197,Jugos de frutas y verduras de cualquier combinación para bebé
-A198,Pizzas preparadas
-A199,Carnitas
-A200,Pollo rostizado
-A201,Barbacoa y birria
-A202,"Otros alimentos preparados: atole, flautas, guisados, hot dog, sopas, tacos, tamales, tortas, sopes, menudo, pozole, licuados, gelatinas, elotes, etcétera"
-A203,"Hongos frescos: champiñones, huitlacoche y setas"
-A204,"Insectos: chapulines, chinicuiles, escamoles, gusanos de maguey, hormigas (chicatana), jumiles"
-A205,"Flanes, gelatinas y pudines en polvo"
-A206,"Cajetas, dulces de leche, jamoncillos y natillas"
-A207,"Ates, crema de cacahuate, jaleas, mermelada"
-A208,"Helados, nieves y paletas de hielo"
-A209,"Otras golosinas, canasta de dulces"
-A210,Molienda de nixtamal
-A211,"Otros gastos relacionados con la preparación de alimentos, cal para nixtamal"
-A212,"Alimentos y/o bebidas en paquete, despensa de alimentos que otorgan otros hogares"
-A213,Alimento para animales domésticos
-A214,Alimento para animales para uso del hogar
-A215,Agua natural embotellada
-A216,"Agua mineral, quina, desmineralizada con o sin sabor"
-A217,Agua preparada y jugos naturales
-A218,Jugos y néctares envasados
-A219,Concentrados y polvos para preparar bebidas
-A220,Refrescos de cola y de sabores
-A221,Bebida energética
-A222,"Hielo, Jarabe natural, lechugilla, sangrita, tascalate"
-A223,Coñac y brandy
-A224,Cerveza
-A225,Anís (licor)
-A226,Jerez
-A227,Licor o cremas de frutas
-A228,"Aguamiel, pulque, tlachique, tepache, tuba y bebidas fermentadas de maiz"
-A229,"Aguardiente, alcohol de caña, charanda, mezcal"
-A230,"Ron añejo, blanco, con limón"
-A231,Rompope
-A232,Sidra blanca y rosada
-A233,"Tequila añejo, azul y blanco"
-A234,"Vino de mesa blanco, rosado, tinto"
-A235,Vodka
-A236,Whisky
-A237,Bebida alcohólica preparada
-A238,Otras bebidas alcohólicas: champaña
-A239,Cigarros
-A240,Puros
-A241,Tabaco en hoja y picado
-A242,Despensa de alimentos que otorgan organizaciones privadas o de gobierno
-A243,Desayuno
-A244,Comida
-A245,Cena
-A246,Entrecomidas
-A247,Otros eventos fuera de casa
-B001,Metro o tren ligero
-B002,Autobús
-B003,Trolebús o metrobús
-B004,"Colectivo, combi o microbús"
-B005,"Taxi, radio-taxi (sitio)"
-B006,Autobús foráneo
-B007,"Otros transportes: lancha, panga o peaje, coche, camioneta, pick up"
-C001,"Detergentes (polvo, líquido, pasta, gel)"
-C002,Jabón de barra
-C003,Blanqueadores
-C004,Suavizantes de telas
-C005,Limpiadores (en polvo o líquido)
-C006,Servilletas y papel absorbente
-C007,"Platos y vasos desechables, papel aluminio y encerado"
-C008,"Escobas, trapeadores, recogedor"
-C009,"Fibras, estropajos, escobetas, pinzas para ropa, lazos"
-C010,Jergas y trapos de cocina
-C011,Cerillos
-C012,Pilas
-C013,Focos
-C014,Cera y limpia muebles
-C015,"Insecticidas líquido, en polvo, pastilla, raid eléctrico"
-C016,Desodorante ambiental y sanitario
-C017,"Recipientes de lámina (cubetas, tinas, etcétera)"
-C018,"Recipientes de plástico (cubetas, tinas, mangueras, etcétera"
-C019,Otros artículos
-C020,Servicio doméstico
-C021,Lavandería
-C022,Tintorería
-C023,Jardinería
-C024,"Otros servicios: fumigación, limpieza de albercas, etcétera"
-D001,Jabón de tocador
-D002,Lociones y perfumes
-D003,Pasta dental y enjuague bucal
-D004,Hilo y cepillo dental
-D005,"Champús, enjuagues, tratamiento para el cabello"
-D006,Tintes y líquidos para permanente
-D007,Desodorante y talco
-D008,Bronceadores y bloqueadores
-D009,"Crema para el cuerpo, para la cara y tratamiento facial"
-D010,"Gel, spray, mousse para el cabello"
-D011,Crema para afeitar y rastrillos
-D012,"Cosméticos, polvo y maquillaje sombra, lápiz labial, delinea"
-D013,Esmalte para uñas
-D014,"Papel sanitario, pañuelos desechables"
-D015,Toallas sanitarias
-D016,Pañales desechables
-D017,"Artículos de tocador para bebé, toallas húmedas, talco para bebé"
-D018,Cepillos y peines
-D019,"Artículos eléctricos: rasuradora, secadora, lámpara para uñas, plancha de cabello, etcétera"
-D020,Reparación y/o mantenimiento de los artículos anteriores
-D021,"Otros: donas y mariposas para el cabello, limas de uñas, pasadores, moños, estuche de manicure, etcétera"
-D022,Corte de cabello y peinado
-D023,Baños y masajes
-D024,Permanentes y tintes
-D025,Manicure
-D026,"Otros servicios: rasurar, depilar, tatuar, etcétera"
-E001,Preescolar
-E002,Primaria
-E003,Secundaria
-E004,Preparatoria o bachillerato
-E005,Profesional
-E006,Maestría y doctorado
-E007,Educación Técnica
-E008,Estancias infantiles (excepto preprimaria)
-E009,Enseñanza adicional
-E010,Educación especial para discapacitados
-E011,Internados
-E012,Cuidado de niños (persona particular)
-E013,Transporte escolar
-E014,Libros para la escuela
-E015,"Gastos recurrentes en educación, como: credenciales, seguro médico, seguro de vida, cuotas a padres de familia"
-E016,"Pago de imprevistos como: derecho a examen, examen extraordinario, cursos de regularización, titulación, etcétera"
-E017,"Equipo escolar: máquinas de escribir, calculadora, etcétera"
-E018,"Gastos recurrentes en educación técnica: credenciales, seguro médico, seguro de vida, cuotas a padres de familia"
-E019,"Pago de imprevistos para educación técnica, como: derecho a examen, cursos de regularización, etcétera"
-E020,"Material para la educación adicional, libros para colorear"
-E021,Reparación y/o mantenimiento de equipo escolar
-E022,Enciclopedia y libros (excluya los de la escuela)
-E023,Periódicos
-E024,Revistas
-E025,"Audiocasetes, discos y discos compactos, Itunes, películas en DVD"
-E026,"Otros, tarjetas de felicitación, bolsas para regalo, álbum fotográfico, agendas, posters, pinturas acrílicas, (material de papelería no escolar)"
-E027,Cines
-E028,Teatros y conciertos
-E029,"Centros nocturnos (incluye alimentos, bebidas, tabaco, entrada, propinas, etcétera)"
-E030,Espectáculos deportivos
-E031,Lotería y juegos de azar
-E032,"Cuotas a centros sociales, asociaciones, clubes, gimnasio, etcétera"
-E033,"Renta de casetes para videojuegos, discos compactos y videocasetes"
-E034,"Otros gastos de recreación: museos, ferias, juegos mecánicos"
-F001,Instalación de la línea de teléfono particular
-F002,"Teléfonos celulares, pago inicial, equipo y accesorios"
-F003,Compra de tarjeta para servicio de teléfono celular
-F004,Teléfono público
-F005,"Estampillas para correo, paquetería, telégrafo"
-F006,"Otros servicios: Internet público, fax público, etcétera"
-F007,Gasolina Magna
-F008,Gasolina Premium
-F009,Diesel y gas
-F010,"Aceites, lubricantes y aditivos"
-F011,Reparación de llantas
-F012,Pensión y estacionamiento
-F013,Lavado y engrasado
-F014,"Otros servicios: encerado, inflado de llantas, etcétera"
-G001,Cuota por la vivienda recibida como prestación en el trabajo
-G002,Cuota de la vivienda en otra situación
-G003,Cuota o pago a otro hogar
-G004,Alquiler de terrenos
-G005,Recolección de basura
-G006,Cuotas de vigilancia
-G007,Cuotas de administración
-G008,Otros servicios
-G009,Gas licuado de petróleo
-G010,Petróleo
-G011,Diesel
-G012,Carbón
-G013,Leña
-G014,Combustible para calentar
-G015,Velas y veladoras
-G016,"Otros combustibles: cartón, papel, etcétera"
-G101,Renta o alquiler de la vivienda
-G102,Estimación del alquiler de la vivienda que es prestada
-G103,Estimación del alquiler de vivienda propia y se está pagando
-G104,Estimación del alquiler de la vivienda que es propia
-G105,Estimación del alquiler de vivienda intestada o en litigio
-G106,Estimación del alquiler de la vivienda en otra situación
-H001,Pantalones para niño de 0 a 4 años
-H002,"Trajes, sacos, conjuntos, abrigos, gabardinas e impermeables"
-H003,Camisas para niño de 0 a 4 años
-H004,Playeras para niño de 0 a 4 años
-H005,Camisetas para niño de 0 a 4 años
-H006,"Suéteres, sudaderas y chambritas para niño de 0 a 4 años"
-H007,Pants para niño de 0 a 4 años
-H008,Trusas y bóxer para niño de 0 a 4 años
-H009,"Calcetines, calcetas y tines para niño de 0 a 4 años"
-H010,Calzones de hule para niño de 0 a 4 años
-H011,Pañales de tela para niño de 0 a 4 años
-H012,"Telas, confecciones y reparaciones para niño de 0 a 4 años"
-H013,"Otras prendas de vestir: baberos, delantales, fajillas, bata"
-H014,Pantalones para niña de 0 a 4 años
-H015,"Trajes, sacos, conjuntos, abrigos, gabardinas e impermeables"
-H016,Vestidos y faldas para niña de 0 a 4 años
-H017,Playeras para niña de 0 a 4 años
-H018,Camisetas para niña de 0 a 4 años
-H019,"Suéteres, sudaderas y chambritas para niña de 0 a 4 años"
-H020,Blusas para niña de 0 a 4 años
-H021,Pants para niña de 0 a 4 años
-H022,Pantaletas para niña de 0 a 4 años
-H023,"Calcetas, tobilleras y tines para niña de 0 a 4 años"
-H024,Calzones de hule para niña de 0 a 4 años
-H025,Pañales de tela para niña de 0 a 4 años
-H026,"Telas, confecciones y reparaciones para niña de 0 a 4 años"
-H027,"Otras prendas de vestir: baberos, delantales, fajillas, bata"
-H028,Pantalones para niño de 5 a 17 años
-H029,Camisas para niño de 5 a 17 años
-H030,Playeras para niño de 5 a 17 años
-H031,"Trajes, sacos, abrigos, gabardinas e impermeables para niño"
-H032,Chamarras para niño de 5 a 17 años
-H033,Suéteres y sudaderas para niño de 5 a 17 años
-H034,Trusas y bóxer para niño de 5 a 17 años
-H035,Camisetas para niño de 5 a 17 años
-H036,"Calcetines, calcetas y tines para niño de 5 a 17 años"
-H037,Pants para niño de 5 a 17 años
-H038,"Telas, confecciones y reparaciones para niño de 5 a 17 años"
-H039,"Otras prendas de vestir para hombre: corbatas, batas, pijama"
-H040,Pantalones para niña de 5 a 17 años
-H041,Blusas para niña de 5 a 17 años
-H042,Playeras para niña de 5 a 17 años
-H043,"Trajes, sacos, conjuntos, abrigos, gabardinas e impermeables"
-H044,Vestidos para niña de 5 a 17 años
-H045,Faldas para niña de 5 a 17 años
-H046,Suéteres y sudaderas para niña de 5 a 17 años
-H047,Chamarras para niña de 5 a 17 años
-H048,"Calcetas, tobilleras, tines y mallas para niña de 5 a 17 año"
-H049,Pantaletas y fajas para niña de 5 a 17 años
-H050,Brassieres para niña de 5 a 17 años
-H051,Fondos y corpiños para niña de 5 a 17 años
-H052,"Medias, pantimedias y tobimedias para niña de 5 a 17 años"
-H053,Pants para niña de 5 a 17 años
-H054,"Telas, confecciones y reparaciones para niña de 5 a 17 años"
-H055,"Otras prendas de vestir para mujer: rebozo, pijamas, camison"
-H056,Pantalones para hombre de 18 o más años
-H057,Camisas para hombre de 18 o más años
-H058,Playeras para hombre de 18 o más años
-H059,"Trajes, sacos, conjuntos, abrigos, gabardinas e impermeables"
-H060,Suéteres y sudaderas para hombre de 18 o más años
-H061,Chamarras para hombre de 18 o más años
-H062,Trusas y bóxer para hombre de 18 o más años
-H063,Camisetas para hombre de 18 o más años
-H064,"Calcetines, calcetas y tines para hombre de 18 o más años"
-H065,Pants para hombre de 18 o más años
-H066,"Telas, confecciones y reparaciones para hombre de 18 o más años"
-H067,"Otras prendas de vestir para hombre: corbatas, batas, pijamas, etcétera"
-H068,Pantalones para mujer de 18 o más años
-H069,Blusas para mujer de 18 o más años
-H070,Playeras para mujer de 18 o más años
-H071,"Trajes, sacos, conjuntos, abrigos, gabardinas e impermeables"
-H072,Vestidos para mujer de 18 o más años
-H073,Faldas para mujer de 18 o más años
-H074,Suéteres y sudaderas para mujer de 18 o más años
-H075,Chamarras para mujer de 18 o más años
-H076,"Calcetas, tobilleras, tines y mallas para mujer de 18 o más"
-H077,Pantaletas y fajas para mujer de 18 o más años
-H078,Brassieres para mujer de 18 o más años
-H079,Fondos y corpiños para mujer de 18 o más años
-H080,"Medias, pantimedias y tobimedias para mujer de 18 o más años"
-H081,Pants para mujer de 18 o más años
-H082,"Telas, confecciones y reparaciones para mujer de 18 o más años"
-H083,"Otras prendas de vestir para mujer: rebozos, pijamas, camisones, batas, etcétera"
-H084,Zapatos para niño de 0 a 4 años
-H085,Botas para niño de 0 a 4 años
-H086,Tenis para niño de 0 a 4 años
-H087,Huaraches para niño de 0 a 4 años
-H088,Sandalias para baño o descanso para niño de 0 a 4 años
-H089,Pantuflas para niño de 0 a 4 años
-H090,Zapatos y sandalias para vestir para niña de 0 a 4 años
-H091,Botas para niña de 0 a 4 años
-H092,Tenis para niña de 0 a 4 años
-H093,Huaraches para niña de 0 a 4 años
-H094,Sandalias para baño o descanso para niña de 0 a 4 años
-H095,Pantuflas para niña de 0 a 4 años
-H096,Zapatos para niño de 5 a 17 años
-H097,Botas para niño de 5 a 17 años
-H098,Tenis para niño de 5 a 17 años
-H099,Huaraches para niño de 5 a 17 años
-H100,Sandalias para baño o descanso para niño de 5 a 17 años
-H101,Pantuflas para niño de 5 a 17 años
-H102,Zapatos y sandalias para vestir para niña de 5 a 17 años
-H103,Botas para niña de 5 a 17 años
-H104,Tenis para niña de 5 a 17 años
-H105,Huaraches para niña de 5 a 17 años
-H106,Sandalias para baño o descanso para niña de 5 a 17 años
-H107,Pantuflas para niña de 5 a 17 años
-H108,Zapatos para hombre de 18 o más años
-H109,Botas para hombre de 18 o más años
-H110,Tenis para hombre de 18 o más años
-H111,Huaraches para hombre de 18 o más años
-H112,Sandalias para baño o descanso para hombre de 18 o más años
-H113,Pantuflas para hombre de 18 o más años
-H114,Zapatos y sandalias para vestir para mujer de 18 o más años
-H115,Botas para mujer de 18 o más años
-H116,Tenis para mujer de 18 o más años
-H117,Huaraches para mujer de 18 o más años
-H118,Sandalias para baño o descanso para mujer de 18 o más años
-H119,Pantuflas para mujer de 18 o más años
-H120,Servicio de limpieza y reparación de calzado
-H121,Crema para calzado
-H122,"Otros: agujetas, cepillos, etcétera"
-H123,Bolsas
-H124,"Cinturones, carteras y monederos"
-H125,Diademas
-H126,"Encendedores, cigarreras y polveras"
-H127,"Joyería de fantasía, bisutería y material para bisutería"
-H128,"Portafolios, mochilas"
-H129,Relojes de pulso
-H130,"Sombreros, gorros y cachuchas"
-H131,"Otros accesorios: lentes oscuros, rosarios, escapularios, maletas, loncheras, llaveros, paraguas, etcétera"
-H132,"Artículos y accesorios para el cuidado del bebé, bañera, carriola, pañalera, cobertor, moisés, chupón, esterilizador de biberones"
-H133,Reparación y/o mantenimiento de los artículos anteriores
-H134,"Uniformes y prendas de vestir para actividades educativas, artísticas y deportivas"
-H135,Prendas de vestir para eventos especiales derivados de la educación
-H136,"Telas, confecciones y reparaciones"
-I001,"Vajilla completa de cristal, barro, plástico, etcétera"
-I002,"Piezas sueltas de vajilla de cristal, barro, plástico, etcétera"
-I003,Recipientes o cajas de plástico para la cocina
-I004,"Vasos, copas y jarras de cristal, plástico, cerámica, etcétera"
-I005,Cubiertos
-I006,"Plantas y flores artificiales, objetos de cerámica, orfebrería, porcelana, portaretratos, cajas de música, pinturas al óleo, dispensador de agua, tortillero de palma y otros artículos decorativos"
-I007,"Accesorios de hule y plástico: jabonera, tapetes, espejos, etcétera"
-I008,Reloj de pared o mesa
-I009,Batería de cocina y piezas sueltas
-I010,Olla express
-I011,"Otros utensilios: tijeras, abrelatas, pinzas para hielo, molino manual, hielera, etcétera"
-I012,"Herramientas: martillo, pinzas, taladro, etcétera"
-I013,Reparación y/o mantenimiento de los artículos anteriores
-I014,Colchones
-I015,Colchonetas
-I016,Cobertores y cobijas
-I017,Sábanas
-I018,Fundas
-I019,"Colchas, edredones"
-I020,Manteles y servilletas
-I021,Toallas
-I022,Cortinas
-I023,"Telas, confecciones y reparaciones de artículos anteriores"
-I024,"Hilos, hilazas y estambres"
-I025,"Agujas, cierres, botones y broches, tabla para tejer, etcétera"
-I026,"Otros artículos: hamacas, almohadas, cojines, secadores, petates, cojín para quinceañera, asadores, discos de arado, bolsas de mandado, etcétera"
-J001,"Honorarios por servicios profesionales: cirugía, anestesia, etcétera"
-J002,"Hospitalización, durante el embarazo"
-J003,"Análisis clínicos y estudios médicos: Rayos X, ultrasonido,"
-J004,"Medicamentos recetados y material de curación, durante el parto"
-J005,"Servicios de partera, durante el parto"
-J006,"Otros: servicio de ambulancia, etcétera, durante el parto"
-J007,"Consultas médicas, durante el embarazo"
-J008,"Consultas, placas, puentes dentales y otros, durante el embarazo"
-J009,"Medicamentos recetados, durante el embarazo"
-J010,"Vitaminas y complementos alimenticios, durante el embarazo"
-J011,"Análisis clínicos y estudios médicos: rayos X, ultrasonidos"
-J012,Hospitalización durante el embarazo (no parto)
-J013,"Servicios de partera, durante el embarazo"
-J014,"Hierbas medicinales, remedios caseros, etcétera, durante el embarazo"
-J015,"Otros servicios: ambulancia, aplicación de inyecciones, vacunas, etcétera"
-J016,Consultas médico general
-J017,"Consultas médico especialista (pediatría y ginecología, etcéra"
-J018,"Consultas dentales (placas dentales o prótesis dentales, etcétera"
-J019,"Análisis clínicos y estudios médicos: rayos X, tamiz"
-J020,"Medicamentos recetados para: diarrea, infecciones y malestar"
-J021,Medicamentos recetados para: gripe
-J022,Medicamentos recetados para: piel
-J023,Medicamentos recetados para: alergias
-J024,Medicamentos recetados para: tos
-J025,Medicamentos recetados para: infecciones de la garganta
-J026,Medicamentos recetados para: fiebre
-J027,Medicamentos recetados para: inflamación
-J028,Medicamentos recetados para: otras infecciones (antibióticos)
-J029,Medicamentos recetados para: dolor de cabeza y migraña
-J030,Medicamentos recetados para: otro tipo de dolores
-J031,Medicamentos recetados para: presión arterial
-J032,Medicamentos recetados para: diabetes
-J033,Medicamentos recetados para: vitaminas
-J034,Medicamentos recetados para: anticonceptivos
-J035,Otros medicamentos recetados
-J036,Consultas médicas para el control de peso
-J037,Medicamentos y productos para el control de peso
-J038,Tratamiento para el control de peso
-J039,"Honorarios por servicios profesionales: cirujano, anestesista, etcétera"
-J040,Hospitalización
-J041,"Análisis clínicos y estudios médicos (rayos X, electros, etcétera)"
-J042,Medicamentos recetados y material de curación
-J043,"Otros: servicios de ambulancia, oxígeno, suero, sondas, bolsas de diálisis y de orina, cómodos, nebulizaciones, etcétera"
-J044,"Medicamentos sin receta para: diarrea, infecciones y malestar estomacal"
-J045,Medicamentos sin receta para: gripe
-J046,Medicamentos sin receta para: piel
-J047,Medicamentos sin receta para: alergias
-J048,Medicamentos sin receta para: tos
-J049,Medicamentos sin receta para: infecciones de la garganta
-J050,Medicamentos sin receta para: fiebre
-J051,Medicamentos sin receta para: inflamación
-J052,Medicamentos sin receta para: otras infecciones (antibiótico)
-J053,Medicamentos sin receta para: dolor de cabeza y migraña
-J054,Medicamentos sin receta para: otro tipo de dolores
-J055,Medicamentos sin receta para: vitaminas
-J056,Medicamentos sin receta para: presión arterial
-J057,Medicamentos sin receta para: diabetes
-J058,Medicamentos sin receta para: anticonceptivos
-J059,Otros medicamentos sin receta
-J060,"Algodón, gasas, vendas, jeringas, etcétera"
-J061,"Alcohol, merthiolate, solución antiséptica, botiquín de primeros auxilios, etcétera"
-J062,"Consultas con el curandero, huesero, quiropráctico, etcétera"
-J063,"Medicamentos naturistas, hierbas medicinales, remedios caseros, Omnilife, Herbalife"
-J064,Medicamentos homeopáticos
-J065,Anteojos y lentes de contacto e intraoculares
-J066,Aparatos para sordera
-J067,"Aparatos ortopédicos y para terapia, silla de ruedas, andadera, muletas, etcétera"
-J068,Reparación y mantenimiento de aparatos ortopédicos
-J069,"Otros: pago de enfermeras y personal al cuidado de enfermos, terapias, baumanómetro, glucómetro, tiras reactivas, cómodo, etcétera"
-J070,Cuotas a hospitales o clínicas
-J071,Cuotas a compañías de seguros
-J072,Cuotas de seguro popular
-K001,Ventilador
-K002,Aparatos telefónicos
-K003,"Identificador de llamadas, fax, etcétera"
-K004,Aparatos de aire acondicionado para casa (incluye refrigeración o clima)
-K005,Máquina de coser y accesorios
-K006,Cocina integral
-K007,Estufa de gas
-K008,"Estufa de otro combustible: electricidad, petróleo (estufa SEDESOL)"
-K009,Refrigerador
-K010,Licuadora
-K011,Batidora
-K012,Plancha
-K013,Extractor de jugos
-K014,Horno de microondas
-K015,Lavadora
-K016,Aspiradora
-K017,Calentador de gas
-K018,Calentador de otro combustible
-K019,Lámparas eléctricas (incluye candiles)
-K020,"Lámparas de otro combustible, lámpara de mano (sorda)"
-K021,Tanque de gas e instalación
-K022,"Lavadero, tinaco y bomba de agua"
-K023,Compra e instalación de paneles solares y planta de luz propia
-K024,"Otros aparatos: tostador, calefactor, horno eléctrico, cafetera eléctrica, fuente de chocolate, etcétera"
-K025,"Reparación, y/o mantenimiento de los artículos anteriores"
-K026,Juego de recámara
-K027,"Piezas sueltas de recámara: camas, tocadores, literas, buró, etcétera"
-K028,Juego de comedor o antecomedor
-K029,"Piezas sueltas para comedor o antecomedor (mesas, sillas)"
-K030,Juego de sala
-K031,Piezas sueltas para sala (mesa de centro)
-K032,"Muebles para cocina (gabinete, mesa, etcétera)"
-K033,"Muebles para baño (taza, tina, tina de hidromasaje, etcétera"
-K034,Muebles para jardín
-K035,Alfombras y tapetes
-K036,"Otros muebles: libreros, escritorio, mesa para televisión, clóset, cuna, corral, periquera, burro de planchar"
-K037,Reparación y/o mantenimiento de los artículos anteriores
-K038,Materiales para reparación y mantenimiento
-K039,Servicios de reparación y mantenimiento
-K040,"Materiales para ampliación, construcción y remodelación, baño ecológico"
-K041,"Servicios para ampliación, construcción y remodelación"
-K042,Materiales para reparación y mantenimiento
-K043,Servicios de reparación y mantenimiento
-K044,"Materiales para ampliación, construcción y remodelación"
-K045,"Servicios para ampliación, construcción y remodelación"
-L001,Radio y radio despertador
-L002,Estéreo y modular
-L003,Grabadora
-L004,Televisión blanco y negro (incluye portátil)
-L005,"Televisión color (incluye portátil), LCD y plasma"
-L006,Lector de DVD y Blu-Ray (incluye portátil)
-L007,"Computadora, tabletas"
-L008,"Accesorios para computadora (mouse, memorias usb, etcétera)"
-L009,"Decodificador de T.V., control remoto, etcétera"
-L010,"Accesorios: bocinas, audífonos, antena aérea, control remoto"
-L011,"Videocasetes, cartuchos y discos para videojuegos, tarjetas"
-L012,"Reproductor de discos compactos, MP3 y Ipod"
-L013,"Reproductor de discos compactos, DVD para vehículos y autoestéreo"
-L014,"Alquiler de televisión, videocaseteras, computadoras, etcétera"
-L015,"Otros aparatos: Walkman, etcétera"
-L016,Reparación y/o mantenimiento de los artículos anteriores
-L017,Proyectores
-L018,Cámaras fotográficas y de video
-L019,"Material fotográfico, películas"
-L020,"Servicio fotográfico, revelado e impresión"
-L021,"Otros artículos y servicios: tripié, alquiler de equipo, proyectores, etcétera"
-L022,Reparación y mantenimiento de los artículos anteriores
-L023,"Juguetes, juegos de mesa, globos de helio, peluches, bicicletas, patinetas, patines"
-L024,"Juegos electrónicos, videojuegos"
-L025,Instrumentos musicales
-L026,"Artículos de deporte y cacería (aparatos para ejercicio, etcétera), balón de fútbol, alberca inflable"
-L027,"Artículos de jardinería: plantas, flores, macetas, tierra, abono, arreglos florales naturales, fertilizantes"
-L028,Reparación y/o mantenimiento de los artículos anteriores.
-L029,"Compra y cuidado de animales domésticos: patos, perros, peces, gallinas, pollitos, caballos de recreación, accesorios, consultas veterinarias, etcétera"
-M001,Transporte foráneo
-M002,Transporte ferroviario
-M003,Transporte aéreo
-M004,Servicio de carga y mudanza
-M005,Cuotas de autopista
-M006,"Otros: lancha, barco, carreta, alquiler de vehículos, etcétera"
-M007,Automóvil y/o guayín
-M008,Camioneta (pick up)
-M009,"Motoneta, motocicleta"
-M010,Bicicleta
-M011,"Otros: remolque, lancha, triciclo, etcétera"
-M012,Llantas
-M013,Acumulador
-M014,"Refacciones: bujías, bandas, filtros, etcétera"
-M015,"Partes de vehículos: vidrios, salpicaderas, etcétera"
-M016,"Accesorios: espejos, manijas, antenas, etcétera"
-M017,"Servicios de afinación, alineación y balanceo"
-M018,"Otros servicios: ajuste de motor, de frenos, hojalatería, pintura, reparación de caja de velocidades, cambio de aceite, etcétera"
-N001,"Servicios profesionales de abogados, notarios, arquitectos, etcétera (no médicos)"
-N002,"Funerales y cementerios, cruz de madera"
-N003,"Paquetes para fiesta (salón, comida, orquesta, ropa y accesorios para el festejado), serenatas"
-N004,"Gastos turísticos: paquetes, hospedajes, alimentos, tours, etcétera"
-N005,Hospedaje o alojamiento sin fines turísticos (con o sin alimentos)
-N006,Gastos en cargos comunales para festividades locales
-N007,Contribuciones para obras del servicio público local
-N008,Seguro de automóvil
-N009,"Seguros contra incendio, daños y riesgos para la vivienda, educación y seguro de vida (no capitalizable)"
-N010,"Otros gastos diversos no comprendidos en las categorías anteriores, piñata, globos"
-N011,Indemnizaciones pagadas a terceros
-N012,Pérdidas y robos en dinero (excluya negocios)
-N013,"Ayuda a parientes y personas ajenas al hogar, pago de renta a otro hogar"
-N014,"Contribuciones a instituciones benéficas en dinero, iglesias, cruz roja, incluye servicios eclesiásticos"
-N015,"Servicios del sector público: expedición de pasaporte, actas, títulos, etcétera"
-N016,"Trámites para vehículos: licencias, placas, verificación vehicular, etcétera"
-Q001,"Depósitos en cuentas de ahorro, tandas, cajas de ahorro, etcétera"
-Q002,Préstamos a personas ajenas al hogar
-Q003,Pagos a tarjeta de crédito bancaria o comercial (incluye intereses)
-Q004,Pago de deudas a la empresa donde trabajan y/o a otras personas o instituciones (excluya créditos hipotecarios)
-Q005,Pago de intereses por préstamos recibidos
-Q006,"Compra de monedas nacionales o extranjeras, metales precioso"
-Q007,Seguro de vida capitalizable
-Q008,"Herencias, dotes y legados"
-Q009,"Compra de casas, condominios, locales o terrenos que no habita el hogar"
-Q010,"Compra de terrenos, casas o condominios que habita el hogar"
-Q011,"Pago de hipotecas de bienes inmuebles: casas, locales, terrenos, edificios, etcétera"
-Q012,Otras erogaciones no consideradas en las preguntas anteriores
-Q013,"Compra de maquinaria, equipo, animales destinados a la reproducción, utilizados en negocios del hogar"
-Q014,Balance negativo en negocios del hogar agropecuarios y no agropecuarios
-Q015,"Compra de valores: cédulas, acciones y bonos"
-Q016,"Compra de marcas, patentes y derechos de autor"
-Q100,Pago de la vivienda propia y que se está pagando
-R001,Energía eléctrica
-R002,Agua
-R003,Gas natural
-R004,Impuesto predial
-R005,Largas distancias de línea particular
-R006,Llamadas locales de línea particular
-R007,Teléfonos celulares (plan mensual)
-R008,Internet
-R009,Televisión de paga
-R010,Paquete de Internet y teléfono
-R011,"Paquete de Internet, teléfono y televisión de paga"
-R012,Tenencia vehicular
-R013,Alarmas para la casa
-T901,"Alimentos, bebidas y tabaco"
-T902,Transporte (pasajes)
-T903,Artículos o servicios destinados a la limpieza y cuidados de la casa
-T904,Artículos o servicios destinados a cuidados personales
-T905,"Artículos o servicios destinados a educación, cultura y recreación"
-T906,Artículos o servicios destinados a la comunicación y servicios para vehículos
-T907,Artículos o servicios destinados a vivienda y servicios de conservación
-T908,Último recibo pagado
-T909,"Prendas de vestir, calzado y accesorios"
-T910,"Cristalería, blancos y utensilios domésticos"
-T911,Artículos o servicios destinados a cuidados de la salud
-T912,Enseres domésticos y mantenimiento de la vivienda
-T913,Artículos de esparcimiento
-T914,Artículos o servicios destinados al transporte
-T915,Gastos diversos
-T916,Erogaciones financieras y de capital
+clave,clave codificación,clave2,rubro
+A001,Maíz en grano (de todo tipo y color),A001,abarrotes
+A002,"Harina de maíz, maicena, fécula, nixtamalizada para tortillas, para atole y harina para tamales",A001,abarrotes
+A003,Masa de maíz (de todo tipo y color),A001,abarrotes
+A004,Tortilla de maíz (de todo tipo y color),A001,abarrotes
+A005,"Tostadas, raspadas, tostitos, totopos, tlayudas",A001,abarrotes
+A006,Otros productos de maíz (excepto cereal),A001,abarrotes
+A007,Harina de trigo,A001,abarrotes
+A008,Tortilla de harina,A001,abarrotes
+A009,Pasta para sopa,A001,abarrotes
+A010,Galletas dulces,A001,abarrotes
+A011,Galletas saladas,A001,abarrotes
+A012,"Pan blanco: bolillo, telera, baguete, etcétera",A001,abarrotes
+A013,Pan dulce en piezas (de todo tipo),A001,abarrotes
+A014,Pan dulce empaquetado,A001,abarrotes
+A015,"Pan para sándwich, hamburguesa, hot dog y tostado",A001,abarrotes
+A016,"Pasteles y pastelillos en piezas o a granel, pastel casero",A001,abarrotes
+A017,Pasteles y pastelillos empaquetados,A001,abarrotes
+A018,"Trigo en grano, otros productos de trigo (excepto cereal)",A001,abarrotes
+A019,Arroz en grano,A001,abarrotes
+A020,Otros productos de arroz,A001,abarrotes
+A021,"Cereal de maíz, de trigo, de arroz, de avena, de granola, etcétera",A001,abarrotes
+A022,"Botanas: frituras, palomitas, cheetos, doritos, etcétera (excepto papas)",A001,abarrotes
+A023,Sopas instantáneas,A001,abarrotes
+A024,Otros cereales (excepto cereal),A001,abarrotes
+A025,Bistec de res (de cualquier parte que se saque),A001,abarrotes
+A026,"Arrachera, filete",A001,abarrotes
+A027,Milanesa de res,A001,abarrotes
+A028,Chamorro de res,A001,abarrotes
+A029,Chuleta de costilla de res,A001,abarrotes
+A030,"Agujas, aldilla, chambarete, diezmillo, espinazo, fajilla de res para asar, retazo, tampiqueña",A001,abarrotes
+A031,Cocido de res,A001,abarrotes
+A032,Cortes especiales de res,A001,abarrotes
+A033,Hamburguesas de res para asar,A001,abarrotes
+A034,Molida de res,A001,abarrotes
+A035,Pulpa de res en trozo,A001,abarrotes
+A036,Carne de otras partes de la res,A001,abarrotes
+A037,Vísceras de res,A001,abarrotes
+A038,Bistec de puerco (de cualquier parte que se saque),A001,abarrotes
+A039,Pierna de puerco en trozo,A001,abarrotes
+A040,Pulpa de puerco en trozo,A001,abarrotes
+A041,Molida de puerco,A001,abarrotes
+A042,Costilla y chuleta de puerco,A001,abarrotes
+A043,Espaldilla de puerco,A001,abarrotes
+A044,Codillo de puerco,A001,abarrotes
+A045,Carne de otras partes del puerco,A001,abarrotes
+A046,Vísceras de puerco,A001,abarrotes
+A047,Carne enchilada,A001,abarrotes
+A048,Chicharrón de puerco,A001,abarrotes
+A049,Chorizo con cualquier condimento y color y longaniza,A001,abarrotes
+A050,Chuleta ahumada de puerco,A001,abarrotes
+A051,Machaca y carne seca,A001,abarrotes
+A052,Jamón de puerco,A001,abarrotes
+A053,"Mortadela, queso de puerco y salami, bolonia de carnes surtidas",A001,abarrotes
+A054,Lardo procesado (tocino),A001,abarrotes
+A055,Salchichas y salchichón,A001,abarrotes
+A056,"Otras carnes procesadas, cueritos",A001,abarrotes
+A057,"Pierna, muslo o pechuga de pollo con hueso",A001,abarrotes
+A058,"Pierna, muslo o pechuga de pollo sin hueso",A001,abarrotes
+A059,"Pollo entero o en piezas (excepto, pierna, muslo y pechuga)",A001,abarrotes
+A060,Vísceras y otras partes del pollo,A001,abarrotes
+A061,Otras aves,A001,abarrotes
+A062,"Chorizo de pollo, jamón y nugget, salchicha, mortadela, etcétera",A001,abarrotes
+A063,Borrego y carnero,A001,abarrotes
+A064,Chivo y cabrito,A001,abarrotes
+A065,"Otras carnes: caballo, conejo, iguana, jabalí, rana, tortuga",A001,abarrotes
+A066,Pescado entero limpio y sin limpiar,A001,abarrotes
+A067,Filete de pescado,A001,abarrotes
+A068,Atún enlatado,A001,abarrotes
+A069,Salmón y bacalao procesado,A001,abarrotes
+A070,"Pescado ahumado, seco, nugget, sardina, etcétera",A001,abarrotes
+A071,"Anguilas, angulas, hueva de pescado, mantarraya, pejelagarto, pejelagarto, etcétera",A001,abarrotes
+A072,Camarón fresco,A001,abarrotes
+A073,Mariscos frescos,A001,abarrotes
+A074,Mariscos procesados,A001,abarrotes
+A075,Leche pasteurizada de vaca,A001,abarrotes
+A076,Leche condensada,A001,abarrotes
+A077,Leche evaporada,A001,abarrotes
+A078,Leche en polvo entera o descremada,A001,abarrotes
+A079,Leche modificada o maternizada,A001,abarrotes
+A080,Leche no pasteurizada (leche bronca),A001,abarrotes
+A081,"Otras leches: de burra, de cabra, de soya",A001,abarrotes
+A082,Queso amarillo en rebanadas o para untar,A001,abarrotes
+A083,Queso añejo y cotija,A001,abarrotes
+A084,Queso chihuahua,A001,abarrotes
+A085,Queso fresco,A001,abarrotes
+A086,Queso manchego,A001,abarrotes
+A087,Queso oaxaca o asadero,A001,abarrotes
+A088,Otros quesos,A001,abarrotes
+A089,Crema,A001,abarrotes
+A090,Mantequilla,A001,abarrotes
+A091,Bebidas fermentadas de leche,A001,abarrotes
+A092,Otros derivados de la leche,A001,abarrotes
+A093,Huevo de gallina blanco y rojo,A001,abarrotes
+A094,"Otros huevos: codorniz, pata, pava, etcétera",A001,abarrotes
+A095,"Aceite vegetal: canola, cártamo, girasol, maíz, etcétera",A001,abarrotes
+A096,"Aceite de coco, oliva, soya",A001,abarrotes
+A097,Margarina,A001,abarrotes
+A098,Manteca de puerco,A001,abarrotes
+A099,Manteca vegetal,A001,abarrotes
+A100,"Otros aceites: de bacalao, de tiburón, de tortuga, enjundia",A001,abarrotes
+A101,Betabel y camote,A001,abarrotes
+A102,Papa,A001,abarrotes
+A103,Rábano,A001,abarrotes
+A104,Otros tubérculos,A001,abarrotes
+A105,Harina para puré de papa,A001,abarrotes
+A106,Papas fritas en bolsa o a granel,A001,abarrotes
+A107,"Acelgas, espinacas y verdolagas, quintolines, quelites y pipica",A001,abarrotes
+A108,Aguacate,A001,abarrotes
+A109,Ajo,A001,abarrotes
+A110,Brócoli,A001,abarrotes
+A111,Calabacita y calabaza,A001,abarrotes
+A112,Cebolla,A001,abarrotes
+A113,Chayote,A001,abarrotes
+A114,Chícharo,A001,abarrotes
+A115,Chile jalapeño,A001,abarrotes
+A116,Chile poblano,A001,abarrotes
+A117,Chile serrano,A001,abarrotes
+A118,Otros chiles,A001,abarrotes
+A119,Cilantro,A001,abarrotes
+A120,Col y repollo,A001,abarrotes
+A121,Ejote,A001,abarrotes
+A122,Elote,A001,abarrotes
+A123,Epazote,A001,abarrotes
+A124,Jitomate,A001,abarrotes
+A125,Lechuga,A001,abarrotes
+A126,Nopal,A001,abarrotes
+A127,Pepino,A001,abarrotes
+A128,Perejil y yerbabuena,A001,abarrotes
+A129,Tomate verde,A001,abarrotes
+A130,Zanahoria,A001,abarrotes
+A131,"Otras verduras, pápalo, aceitunas, flor de calabaza, chaya",A001,abarrotes
+A132,"Germinados de maíz, de soya, de trigo, de alfalfa",A001,abarrotes
+A133,Chiles envasados,A001,abarrotes
+A134,Chile secos o en polvo,A001,abarrotes
+A135,"Verduras y legumbres envasadas , aceitunas, verduras encurtidas",A001,abarrotes
+A136,Verduras y legumbres congeladas,A001,abarrotes
+A137,Frijol en grano,A001,abarrotes
+A138,Garbanzo en grano,A001,abarrotes
+A139,Haba amarilla o verde en grano,A001,abarrotes
+A140,Lenteja en grano,A001,abarrotes
+A141,Otras leguminosas en grano,A001,abarrotes
+A142,Frijol procesado,A001,abarrotes
+A143,Otras leguminosas procesadas,A001,abarrotes
+A144,Semillas a granel,A001,abarrotes
+A145,Semillas envasadas,A001,abarrotes
+A146,"Semillas procesadas, soya texturizada",A001,abarrotes
+A147,"Anona, chirimoya, guanábana",A001,abarrotes
+A148,"Cereza, frambuesa, fresa, zarzamora",A001,abarrotes
+A149,"Chabacano, durazno, melocotón",A001,abarrotes
+A150,Chicozapote y mamey,A001,abarrotes
+A151,Ciruela y jobo,A001,abarrotes
+A152,Guayaba,A001,abarrotes
+A153,Lima,A001,abarrotes
+A154,Limón,A001,abarrotes
+A155,"Mandarina, nectarina, tangerina",A001,abarrotes
+A156,Toronja,A001,abarrotes
+A157,Mango,A001,abarrotes
+A158,Manzana y perón,A001,abarrotes
+A159,Melón,A001,abarrotes
+A160,Naranja,A001,abarrotes
+A161,Papaya,A001,abarrotes
+A162,Pera,A001,abarrotes
+A163,Piña,A001,abarrotes
+A164,Pitahaya y tuna,A001,abarrotes
+A165,Plátano macho y de castilla,A001,abarrotes
+A166,Plátano verde y tabasco,A001,abarrotes
+A167,"Otros plátanos (chiapas, dominico, guineo, manzano, dorado, portalimón y roatan)",A001,abarrotes
+A168,Sandía,A001,abarrotes
+A169,Uva,A001,abarrotes
+A170,"Otras frutas: garambullo, granada, higo, jícama, kiwi, etcétera, arreglo frutal",A001,abarrotes
+A171,Frutas en almíbar y conserva,A001,abarrotes
+A172,"Frutas cristalizadas, enchiladas y secas",A001,abarrotes
+A173,Azúcar blanca y morena,A001,abarrotes
+A174,Miel de abeja,A001,abarrotes
+A175,Otras azúcares y mieles,A001,abarrotes
+A176,Café tostado en grano molido,A001,abarrotes
+A177,"Café tostado soluble, capuchino",A001,abarrotes
+A178,Flor y hojas para té,A001,abarrotes
+A179,Té soluble (cualquier sabor),A001,abarrotes
+A180,Chocolate en tableta,A001,abarrotes
+A181,Chocolate en polvo,A001,abarrotes
+A182,Otros chocolates,A001,abarrotes
+A183,Canela,A001,abarrotes
+A184,Clavo,A001,abarrotes
+A185,Yerbas de olor,A001,abarrotes
+A186,"Concentrados de pollo, tomate, camarón y res",A001,abarrotes
+A187,Mayonesa,A001,abarrotes
+A188,Mole en pasta o en polvo,A001,abarrotes
+A189,Mostaza,A001,abarrotes
+A190,Pimienta,A001,abarrotes
+A191,Sal,A001,abarrotes
+A192,Salsas dulces y picantes,A001,abarrotes
+A193,Vinagre,A001,abarrotes
+A194,"Otros aderezos, especies y salsas, vainilla",A001,abarrotes
+A195,"Cereal de arroz, avena, plátano, manzana, mixto para bebé",A001,abarrotes
+A196,Papillas para bebé,A001,abarrotes
+A197,Jugos de frutas y verduras de cualquier combinación para bebé,A001,abarrotes
+A198,Pizzas preparadas,A001,abarrotes
+A199,Carnitas,A001,abarrotes
+A200,Pollo rostizado,A001,abarrotes
+A201,Barbacoa y birria,A001,abarrotes
+A202,"Otros alimentos preparados: atole, flautas, guisados, hot dog, sopas, tacos, tamales, tortas, sopes, menudo, pozole, licuados, gelatinas, elotes, etcétera",A001,abarrotes
+A203,"Hongos frescos: champiñones, huitlacoche y setas",A001,abarrotes
+A204,"Insectos: chapulines, chinicuiles, escamoles, gusanos de maguey, hormigas (chicatana), jumiles",A001,abarrotes
+A205,"Flanes, gelatinas y pudines en polvo",A001,abarrotes
+A206,"Cajetas, dulces de leche, jamoncillos y natillas",A001,abarrotes
+A207,"Ates, crema de cacahuate, jaleas, mermelada",A001,abarrotes
+A208,"Helados, nieves y paletas de hielo",A001,abarrotes
+A209,"Otras golosinas, canasta de dulces",A001,abarrotes
+A210,Molienda de nixtamal,A001,abarrotes
+A211,"Otros gastos relacionados con la preparación de alimentos, cal para nixtamal",A001,abarrotes
+A212,"Alimentos y/o bebidas en paquete, despensa de alimentos que otorgan otros hogares",A001,abarrotes
+A213,Alimento para animales domésticos,A001,abarrotes
+A214,Alimento para animales para uso del hogar,A001,abarrotes
+A215,Agua natural embotellada,A002,bebidas no alcholicas
+A216,"Agua mineral, quina, desmineralizada con o sin sabor",A002,bebidas no alcholicas
+A217,Agua preparada y jugos naturales,A002,bebidas no alcholicas
+A218,Jugos y néctares envasados,A002,bebidas no alcholicas
+A219,Concentrados y polvos para preparar bebidas,A002,bebidas no alcholicas
+A220,Refrescos de cola y de sabores,A002,bebidas no alcholicas
+A221,Bebida energética,A002,bebidas no alcholicas
+A222,"Hielo, Jarabe natural, lechugilla, sangrita, tascalate",A002,bebidas no alcholicas
+A223,Coñac y brandy,A003,bebidas alcoholicas y tabaco
+A224,Cerveza,A003,bebidas alcoholicas y tabaco
+A225,Anís (licor),A003,bebidas alcoholicas y tabaco
+A226,Jerez,A003,bebidas alcoholicas y tabaco
+A227,Licor o cremas de frutas,A003,bebidas alcoholicas y tabaco
+A228,"Aguamiel, pulque, tlachique, tepache, tuba y bebidas fermentadas de maiz",A003,bebidas alcoholicas y tabaco
+A229,"Aguardiente, alcohol de caña, charanda, mezcal",A003,bebidas alcoholicas y tabaco
+A230,"Ron añejo, blanco, con limón",A003,bebidas alcoholicas y tabaco
+A231,Rompope,A003,bebidas alcoholicas y tabaco
+A232,Sidra blanca y rosada,A003,bebidas alcoholicas y tabaco
+A233,"Tequila añejo, azul y blanco",A003,bebidas alcoholicas y tabaco
+A234,"Vino de mesa blanco, rosado, tinto",A003,bebidas alcoholicas y tabaco
+A235,Vodka,A003,bebidas alcoholicas y tabaco
+A236,Whisky,A003,bebidas alcoholicas y tabaco
+A237,Bebida alcohólica preparada,A003,bebidas alcoholicas y tabaco
+A238,Otras bebidas alcohólicas: champaña,A003,bebidas alcoholicas y tabaco
+A239,Cigarros,A003,bebidas alcoholicas y tabaco
+A240,Puros,A003,bebidas alcoholicas y tabaco
+A241,Tabaco en hoja y picado,A003,bebidas alcoholicas y tabaco
+A242,Despensa de alimentos que otorgan organizaciones privadas o de gobierno,A005,alimentos fura del hogar
+A243,Desayuno,A005,alimentos fura del hogar
+A244,Comida,A005,alimentos fura del hogar
+A245,Cena,A005,alimentos fura del hogar
+A246,Entrecomidas,A005,alimentos fura del hogar
+A247,Otros eventos fuera de casa,A005,alimentos fura del hogar
+B001,Metro o tren ligero,B001,transporte publico
+B002,Autobús,B001,transporte publico
+B003,Trolebús o metrobús,B001,transporte publico
+B004,"Colectivo, combi o microbús",B001,transporte publico
+B005,"Taxi, radio-taxi (sitio)",B001,transporte publico
+B006,Autobús foráneo,B001,transporte publico
+B007,"Otros transportes: lancha, panga o peaje, coche, camioneta, pick up",B001,transporte publico
+C001,"Detergentes (polvo, líquido, pasta, gel)",C001,articulos hogar
+C002,Jabón de barra,C001,articulos hogar
+C003,Blanqueadores,C001,articulos hogar
+C004,Suavizantes de telas,C001,articulos hogar
+C005,Limpiadores (en polvo o líquido),C001,articulos hogar
+C006,Servilletas y papel absorbente,C001,articulos hogar
+C007,"Platos y vasos desechables, papel aluminio y encerado",C001,articulos hogar
+C008,"Escobas, trapeadores, recogedor",C001,articulos hogar
+C009,"Fibras, estropajos, escobetas, pinzas para ropa, lazos",C001,articulos hogar
+C010,Jergas y trapos de cocina,C001,articulos hogar
+C011,Cerillos,C001,articulos hogar
+C012,Pilas,C001,articulos hogar
+C013,Focos,C001,articulos hogar
+C014,Cera y limpia muebles,C001,articulos hogar
+C015,"Insecticidas líquido, en polvo, pastilla, raid eléctrico",C001,articulos hogar
+C016,Desodorante ambiental y sanitario,C001,articulos hogar
+C017,"Recipientes de lámina (cubetas, tinas, etcétera)",C001,articulos hogar
+C018,"Recipientes de plástico (cubetas, tinas, mangueras, etcétera",C001,articulos hogar
+C019,Otros artículos,C001,articulos hogar
+C020,Servicio doméstico,C001,articulos hogar
+C021,Lavandería,C001,articulos hogar
+C022,Tintorería,C001,articulos hogar
+C023,Jardinería,C001,articulos hogar
+C024,"Otros servicios: fumigación, limpieza de albercas, etcétera",C001,articulos hogar
+D001,Jabón de tocador,D001,cuidado personal
+D002,Lociones y perfumes,D001,cuidado personal
+D003,Pasta dental y enjuague bucal,D001,cuidado personal
+D004,Hilo y cepillo dental,D001,cuidado personal
+D005,"Champús, enjuagues, tratamiento para el cabello",D001,cuidado personal
+D006,Tintes y líquidos para permanente,D001,cuidado personal
+D007,Desodorante y talco,D001,cuidado personal
+D008,Bronceadores y bloqueadores,D001,cuidado personal
+D009,"Crema para el cuerpo, para la cara y tratamiento facial",D001,cuidado personal
+D010,"Gel, spray, mousse para el cabello",D001,cuidado personal
+D011,Crema para afeitar y rastrillos,D001,cuidado personal
+D012,"Cosméticos, polvo y maquillaje sombra, lápiz labial, delinea",D001,cuidado personal
+D013,Esmalte para uñas,D001,cuidado personal
+D014,"Papel sanitario, pañuelos desechables",D001,cuidado personal
+D015,Toallas sanitarias,D001,cuidado personal
+D016,Pañales desechables,D001,cuidado personal
+D017,"Artículos de tocador para bebé, toallas húmedas, talco para bebé",D001,cuidado personal
+D018,Cepillos y peines,D001,cuidado personal
+D019,"Artículos eléctricos: rasuradora, secadora, lámpara para uñas, plancha de cabello, etcétera",D001,cuidado personal
+D020,Reparación y/o mantenimiento de los artículos anteriores,D001,cuidado personal
+D021,"Otros: donas y mariposas para el cabello, limas de uñas, pasadores, moños, estuche de manicure, etcétera",D001,cuidado personal
+D022,Corte de cabello y peinado,D001,cuidado personal
+D023,Baños y masajes,D001,cuidado personal
+D024,Permanentes y tintes,D001,cuidado personal
+D025,Manicure,D001,cuidado personal
+D026,"Otros servicios: rasurar, depilar, tatuar, etcétera",D001,cuidado personal
+E001,Preescolar,E001,"educacion basica, media o superior"
+E002,Primaria,E001,"educacion basica, media o superior"
+E003,Secundaria,E001,"educacion basica, media o superior"
+E004,Preparatoria o bachillerato,E001,"educacion basica, media o superior"
+E005,Profesional,E001,"educacion basica, media o superior"
+E006,Maestría y doctorado,E001,"educacion basica, media o superior"
+E007,Educación Técnica,E001,"educacion basica, media o superior"
+E008,Estancias infantiles (excepto preprimaria),E002,servicios o articulos educacion
+E009,Enseñanza adicional,E002,servicios o articulos educacion
+E010,Educación especial para discapacitados,E002,servicios o articulos educacion
+E011,Internados,E002,servicios o articulos educacion
+E012,Cuidado de niños (persona particular),E002,servicios o articulos educacion
+E013,Transporte escolar,E002,servicios o articulos educacion
+E014,Libros para la escuela,E002,servicios o articulos educacion
+E015,"Gastos recurrentes en educación, como: credenciales, seguro médico, seguro de vida, cuotas a padres de familia",E002,servicios o articulos educacion
+E016,"Pago de imprevistos como: derecho a examen, examen extraordinario, cursos de regularización, titulación, etcétera",E002,servicios o articulos educacion
+E017,"Equipo escolar: máquinas de escribir, calculadora, etcétera",E002,servicios o articulos educacion
+E018,"Gastos recurrentes en educación técnica: credenciales, seguro médico, seguro de vida, cuotas a padres de familia",E002,servicios o articulos educacion
+E019,"Pago de imprevistos para educación técnica, como: derecho a examen, cursos de regularización, etcétera",E002,servicios o articulos educacion
+E020,"Material para la educación adicional, libros para colorear",E002,servicios o articulos educacion
+E021,Reparación y/o mantenimiento de equipo escolar,E002,servicios o articulos educacion
+E022,Enciclopedia y libros (excluya los de la escuela),E003,cultura y recreacion
+E023,Periódicos,E003,cultura y recreacion
+E024,Revistas,E003,cultura y recreacion
+E025,"Audiocasetes, discos y discos compactos, Itunes, películas en DVD",E003,cultura y recreacion
+E026,"Otros, tarjetas de felicitación, bolsas para regalo, álbum fotográfico, agendas, posters, pinturas acrílicas, (material de papelería no escolar)",E003,cultura y recreacion
+E027,Cines,E003,cultura y recreacion
+E028,Teatros y conciertos,E003,cultura y recreacion
+E029,"Centros nocturnos (incluye alimentos, bebidas, tabaco, entrada, propinas, etcétera)",E003,cultura y recreacion
+E030,Espectáculos deportivos,E003,cultura y recreacion
+E031,Lotería y juegos de azar,E003,cultura y recreacion
+E032,"Cuotas a centros sociales, asociaciones, clubes, gimnasio, etcétera",E003,cultura y recreacion
+E033,"Renta de casetes para videojuegos, discos compactos y videocasetes",E003,cultura y recreacion
+E034,"Otros gastos de recreación: museos, ferias, juegos mecánicos",E003,cultura y recreacion
+F001,Instalación de la línea de teléfono particular,F001,comunicaciones
+F002,"Teléfonos celulares, pago inicial, equipo y accesorios",F001,comunicaciones
+F003,Compra de tarjeta para servicio de teléfono celular,F001,comunicaciones
+F004,Teléfono público,F001,comunicaciones
+F005,"Estampillas para correo, paquetería, telégrafo",F001,comunicaciones
+F006,"Otros servicios: Internet público, fax público, etcétera",F001,comunicaciones
+F007,Gasolina Magna,F002,"combustible, matenimiento, servicios y refacciones vehiculos"
+F008,Gasolina Premium,F002,"combustible, matenimiento, servicios y refacciones vehiculos"
+F009,Diesel y gas,F002,"combustible, matenimiento, servicios y refacciones vehiculos"
+F010,"Aceites, lubricantes y aditivos",F002,"combustible, matenimiento, servicios y refacciones vehiculos"
+F011,Reparación de llantas,F002,"combustible, matenimiento, servicios y refacciones vehiculos"
+F012,Pensión y estacionamiento,F002,"combustible, matenimiento, servicios y refacciones vehiculos"
+F013,Lavado y engrasado,F002,"combustible, matenimiento, servicios y refacciones vehiculos"
+F014,"Otros servicios: encerado, inflado de llantas, etcétera",F002,"combustible, matenimiento, servicios y refacciones vehiculos"
+G001,Cuota por la vivienda recibida como prestación en el trabajo,G001,vivienda
+G002,Cuota de la vivienda en otra situación,G001,vivienda
+G003,Cuota o pago a otro hogar,G001,vivienda
+G004,Alquiler de terrenos,G001,vivienda
+G005,Recolección de basura,G002,servicios hogar
+G006,Cuotas de vigilancia,G002,servicios hogar
+G007,Cuotas de administración,G002,servicios hogar
+G008,Otros servicios,G002,servicios hogar
+G009,Gas licuado de petróleo,G003,combustibles
+G010,Petróleo,G003,combustibles
+G011,Diesel,G003,combustibles
+G012,Carbón,G003,combustibles
+G013,Leña,G003,combustibles
+G014,Combustible para calentar,G003,combustibles
+G015,Velas y veladoras,G003,combustibles
+G016,"Otros combustibles: cartón, papel, etcétera",G003,combustibles
+G101,Renta o alquiler de la vivienda,G004,renta o alquiler de vivienda
+G102,Estimación del alquiler de la vivienda que es prestada,G005,estimado alquiler vivienda en otra situacion
+G103,Estimación del alquiler de vivienda propia y se está pagando,G005,estimado alquiler vivienda en otra situacion
+G104,Estimación del alquiler de la vivienda que es propia,G005,estimado alquiler vivienda en otra situacion
+G105,Estimación del alquiler de vivienda intestada o en litigio,G005,estimado alquiler vivienda en otra situacion
+G106,Estimación del alquiler de la vivienda en otra situación,G005,estimado alquiler vivienda en otra situacion
+H001,Pantalones para niño de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H002,"Trajes, sacos, conjuntos, abrigos, gabardinas e impermeables",H001,"vestimenta, calzado y accesorios personales"
+H003,Camisas para niño de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H004,Playeras para niño de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H005,Camisetas para niño de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H006,"Suéteres, sudaderas y chambritas para niño de 0 a 4 años",H001,"vestimenta, calzado y accesorios personales"
+H007,Pants para niño de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H008,Trusas y bóxer para niño de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H009,"Calcetines, calcetas y tines para niño de 0 a 4 años",H001,"vestimenta, calzado y accesorios personales"
+H010,Calzones de hule para niño de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H011,Pañales de tela para niño de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H012,"Telas, confecciones y reparaciones para niño de 0 a 4 años",H001,"vestimenta, calzado y accesorios personales"
+H013,"Otras prendas de vestir: baberos, delantales, fajillas, bata",H001,"vestimenta, calzado y accesorios personales"
+H014,Pantalones para niña de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H015,"Trajes, sacos, conjuntos, abrigos, gabardinas e impermeables",H001,"vestimenta, calzado y accesorios personales"
+H016,Vestidos y faldas para niña de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H017,Playeras para niña de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H018,Camisetas para niña de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H019,"Suéteres, sudaderas y chambritas para niña de 0 a 4 años",H001,"vestimenta, calzado y accesorios personales"
+H020,Blusas para niña de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H021,Pants para niña de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H022,Pantaletas para niña de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H023,"Calcetas, tobilleras y tines para niña de 0 a 4 años",H001,"vestimenta, calzado y accesorios personales"
+H024,Calzones de hule para niña de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H025,Pañales de tela para niña de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H026,"Telas, confecciones y reparaciones para niña de 0 a 4 años",H001,"vestimenta, calzado y accesorios personales"
+H027,"Otras prendas de vestir: baberos, delantales, fajillas, bata",H001,"vestimenta, calzado y accesorios personales"
+H028,Pantalones para niño de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H029,Camisas para niño de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H030,Playeras para niño de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H031,"Trajes, sacos, abrigos, gabardinas e impermeables para niño",H001,"vestimenta, calzado y accesorios personales"
+H032,Chamarras para niño de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H033,Suéteres y sudaderas para niño de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H034,Trusas y bóxer para niño de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H035,Camisetas para niño de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H036,"Calcetines, calcetas y tines para niño de 5 a 17 años",H001,"vestimenta, calzado y accesorios personales"
+H037,Pants para niño de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H038,"Telas, confecciones y reparaciones para niño de 5 a 17 años",H001,"vestimenta, calzado y accesorios personales"
+H039,"Otras prendas de vestir para hombre: corbatas, batas, pijama",H001,"vestimenta, calzado y accesorios personales"
+H040,Pantalones para niña de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H041,Blusas para niña de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H042,Playeras para niña de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H043,"Trajes, sacos, conjuntos, abrigos, gabardinas e impermeables",H001,"vestimenta, calzado y accesorios personales"
+H044,Vestidos para niña de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H045,Faldas para niña de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H046,Suéteres y sudaderas para niña de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H047,Chamarras para niña de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H048,"Calcetas, tobilleras, tines y mallas para niña de 5 a 17 año",H001,"vestimenta, calzado y accesorios personales"
+H049,Pantaletas y fajas para niña de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H050,Brassieres para niña de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H051,Fondos y corpiños para niña de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H052,"Medias, pantimedias y tobimedias para niña de 5 a 17 años",H001,"vestimenta, calzado y accesorios personales"
+H053,Pants para niña de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H054,"Telas, confecciones y reparaciones para niña de 5 a 17 años",H001,"vestimenta, calzado y accesorios personales"
+H055,"Otras prendas de vestir para mujer: rebozo, pijamas, camison",H001,"vestimenta, calzado y accesorios personales"
+H056,Pantalones para hombre de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H057,Camisas para hombre de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H058,Playeras para hombre de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H059,"Trajes, sacos, conjuntos, abrigos, gabardinas e impermeables",H001,"vestimenta, calzado y accesorios personales"
+H060,Suéteres y sudaderas para hombre de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H061,Chamarras para hombre de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H062,Trusas y bóxer para hombre de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H063,Camisetas para hombre de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H064,"Calcetines, calcetas y tines para hombre de 18 o más años",H001,"vestimenta, calzado y accesorios personales"
+H065,Pants para hombre de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H066,"Telas, confecciones y reparaciones para hombre de 18 o más años",H001,"vestimenta, calzado y accesorios personales"
+H067,"Otras prendas de vestir para hombre: corbatas, batas, pijamas, etcétera",H001,"vestimenta, calzado y accesorios personales"
+H068,Pantalones para mujer de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H069,Blusas para mujer de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H070,Playeras para mujer de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H071,"Trajes, sacos, conjuntos, abrigos, gabardinas e impermeables",H001,"vestimenta, calzado y accesorios personales"
+H072,Vestidos para mujer de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H073,Faldas para mujer de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H074,Suéteres y sudaderas para mujer de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H075,Chamarras para mujer de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H076,"Calcetas, tobilleras, tines y mallas para mujer de 18 o más",H001,"vestimenta, calzado y accesorios personales"
+H077,Pantaletas y fajas para mujer de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H078,Brassieres para mujer de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H079,Fondos y corpiños para mujer de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H080,"Medias, pantimedias y tobimedias para mujer de 18 o más años",H001,"vestimenta, calzado y accesorios personales"
+H081,Pants para mujer de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H082,"Telas, confecciones y reparaciones para mujer de 18 o más años",H001,"vestimenta, calzado y accesorios personales"
+H083,"Otras prendas de vestir para mujer: rebozos, pijamas, camisones, batas, etcétera",H001,"vestimenta, calzado y accesorios personales"
+H084,Zapatos para niño de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H085,Botas para niño de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H086,Tenis para niño de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H087,Huaraches para niño de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H088,Sandalias para baño o descanso para niño de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H089,Pantuflas para niño de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H090,Zapatos y sandalias para vestir para niña de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H091,Botas para niña de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H092,Tenis para niña de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H093,Huaraches para niña de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H094,Sandalias para baño o descanso para niña de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H095,Pantuflas para niña de 0 a 4 años,H001,"vestimenta, calzado y accesorios personales"
+H096,Zapatos para niño de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H097,Botas para niño de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H098,Tenis para niño de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H099,Huaraches para niño de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H100,Sandalias para baño o descanso para niño de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H101,Pantuflas para niño de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H102,Zapatos y sandalias para vestir para niña de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H103,Botas para niña de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H104,Tenis para niña de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H105,Huaraches para niña de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H106,Sandalias para baño o descanso para niña de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H107,Pantuflas para niña de 5 a 17 años,H001,"vestimenta, calzado y accesorios personales"
+H108,Zapatos para hombre de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H109,Botas para hombre de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H110,Tenis para hombre de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H111,Huaraches para hombre de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H112,Sandalias para baño o descanso para hombre de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H113,Pantuflas para hombre de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H114,Zapatos y sandalias para vestir para mujer de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H115,Botas para mujer de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H116,Tenis para mujer de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H117,Huaraches para mujer de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H118,Sandalias para baño o descanso para mujer de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H119,Pantuflas para mujer de 18 o más años,H001,"vestimenta, calzado y accesorios personales"
+H120,Servicio de limpieza y reparación de calzado,H001,"vestimenta, calzado y accesorios personales"
+H121,Crema para calzado,H001,"vestimenta, calzado y accesorios personales"
+H122,"Otros: agujetas, cepillos, etcétera",H001,"vestimenta, calzado y accesorios personales"
+H123,Bolsas,H001,"vestimenta, calzado y accesorios personales"
+H124,"Cinturones, carteras y monederos",H001,"vestimenta, calzado y accesorios personales"
+H125,Diademas,H001,"vestimenta, calzado y accesorios personales"
+H126,"Encendedores, cigarreras y polveras",H001,"vestimenta, calzado y accesorios personales"
+H127,"Joyería de fantasía, bisutería y material para bisutería",H001,"vestimenta, calzado y accesorios personales"
+H128,"Portafolios, mochilas",H001,"vestimenta, calzado y accesorios personales"
+H129,Relojes de pulso,H001,"vestimenta, calzado y accesorios personales"
+H130,"Sombreros, gorros y cachuchas",H001,"vestimenta, calzado y accesorios personales"
+H131,"Otros accesorios: lentes oscuros, rosarios, escapularios, maletas, loncheras, llaveros, paraguas, etcétera",H001,"vestimenta, calzado y accesorios personales"
+H132,"Artículos y accesorios para el cuidado del bebé, bañera, carriola, pañalera, cobertor, moisés, chupón, esterilizador de biberones",H001,"vestimenta, calzado y accesorios personales"
+H133,Reparación y/o mantenimiento de los artículos anteriores,H001,"vestimenta, calzado y accesorios personales"
+H134,"Uniformes y prendas de vestir para actividades educativas, artísticas y deportivas",H001,"vestimenta, calzado y accesorios personales"
+H135,Prendas de vestir para eventos especiales derivados de la educación,H001,"vestimenta, calzado y accesorios personales"
+H136,"Telas, confecciones y reparaciones",H001,"vestimenta, calzado y accesorios personales"
+I001,"Vajilla completa de cristal, barro, plástico, etcétera",I001,"cristaleria, blancos y articulos domesticos"
+I002,"Piezas sueltas de vajilla de cristal, barro, plástico, etcétera",I001,"cristaleria, blancos y articulos domesticos"
+I003,Recipientes o cajas de plástico para la cocina,I001,"cristaleria, blancos y articulos domesticos"
+I004,"Vasos, copas y jarras de cristal, plástico, cerámica, etcétera",I001,"cristaleria, blancos y articulos domesticos"
+I005,Cubiertos,I001,"cristaleria, blancos y articulos domesticos"
+I006,"Plantas y flores artificiales, objetos de cerámica, orfebrería, porcelana, portaretratos, cajas de música, pinturas al óleo, dispensador de agua, tortillero de palma y otros artículos decorativos",I001,"cristaleria, blancos y articulos domesticos"
+I007,"Accesorios de hule y plástico: jabonera, tapetes, espejos, etcétera",I001,"cristaleria, blancos y articulos domesticos"
+I008,Reloj de pared o mesa,I001,"cristaleria, blancos y articulos domesticos"
+I009,Batería de cocina y piezas sueltas,I001,"cristaleria, blancos y articulos domesticos"
+I010,Olla express,I001,"cristaleria, blancos y articulos domesticos"
+I011,"Otros utensilios: tijeras, abrelatas, pinzas para hielo, molino manual, hielera, etcétera",I001,"cristaleria, blancos y articulos domesticos"
+I012,"Herramientas: martillo, pinzas, taladro, etcétera",I001,"cristaleria, blancos y articulos domesticos"
+I013,Reparación y/o mantenimiento de los artículos anteriores,I001,"cristaleria, blancos y articulos domesticos"
+I014,Colchones,I001,"cristaleria, blancos y articulos domesticos"
+I015,Colchonetas,I001,"cristaleria, blancos y articulos domesticos"
+I016,Cobertores y cobijas,I001,"cristaleria, blancos y articulos domesticos"
+I017,Sábanas,I001,"cristaleria, blancos y articulos domesticos"
+I018,Fundas,I001,"cristaleria, blancos y articulos domesticos"
+I019,"Colchas, edredones",I001,"cristaleria, blancos y articulos domesticos"
+I020,Manteles y servilletas,I001,"cristaleria, blancos y articulos domesticos"
+I021,Toallas,I001,"cristaleria, blancos y articulos domesticos"
+I022,Cortinas,I001,"cristaleria, blancos y articulos domesticos"
+I023,"Telas, confecciones y reparaciones de artículos anteriores",I001,"cristaleria, blancos y articulos domesticos"
+I024,"Hilos, hilazas y estambres",I001,"cristaleria, blancos y articulos domesticos"
+I025,"Agujas, cierres, botones y broches, tabla para tejer, etcétera",I001,"cristaleria, blancos y articulos domesticos"
+I026,"Otros artículos: hamacas, almohadas, cojines, secadores, petates, cojín para quinceañera, asadores, discos de arado, bolsas de mandado, etcétera",I001,"cristaleria, blancos y articulos domesticos"
+J001,"Honorarios por servicios profesionales: cirugía, anestesia, etcétera",J001,cuidados de la salud
+J002,"Hospitalización, durante el embarazo",J001,cuidados de la salud
+J003,"Análisis clínicos y estudios médicos: Rayos X, ultrasonido,",J001,cuidados de la salud
+J004,"Medicamentos recetados y material de curación, durante el parto",J001,cuidados de la salud
+J005,"Servicios de partera, durante el parto",J001,cuidados de la salud
+J006,"Otros: servicio de ambulancia, etcétera, durante el parto",J001,cuidados de la salud
+J007,"Consultas médicas, durante el embarazo",J001,cuidados de la salud
+J008,"Consultas, placas, puentes dentales y otros, durante el embarazo",J001,cuidados de la salud
+J009,"Medicamentos recetados, durante el embarazo",J001,cuidados de la salud
+J010,"Vitaminas y complementos alimenticios, durante el embarazo",J001,cuidados de la salud
+J011,"Análisis clínicos y estudios médicos: rayos X, ultrasonidos",J001,cuidados de la salud
+J012,Hospitalización durante el embarazo (no parto),J001,cuidados de la salud
+J013,"Servicios de partera, durante el embarazo",J001,cuidados de la salud
+J014,"Hierbas medicinales, remedios caseros, etcétera, durante el embarazo",J001,cuidados de la salud
+J015,"Otros servicios: ambulancia, aplicación de inyecciones, vacunas, etcétera",J001,cuidados de la salud
+J016,Consultas médico general,J001,cuidados de la salud
+J017,"Consultas médico especialista (pediatría y ginecología, etcéra",J001,cuidados de la salud
+J018,"Consultas dentales (placas dentales o prótesis dentales, etcétera",J001,cuidados de la salud
+J019,"Análisis clínicos y estudios médicos: rayos X, tamiz",J001,cuidados de la salud
+J020,"Medicamentos recetados para: diarrea, infecciones y malestar",J001,cuidados de la salud
+J021,Medicamentos recetados para: gripe,J001,cuidados de la salud
+J022,Medicamentos recetados para: piel,J001,cuidados de la salud
+J023,Medicamentos recetados para: alergias,J001,cuidados de la salud
+J024,Medicamentos recetados para: tos,J001,cuidados de la salud
+J025,Medicamentos recetados para: infecciones de la garganta,J001,cuidados de la salud
+J026,Medicamentos recetados para: fiebre,J001,cuidados de la salud
+J027,Medicamentos recetados para: inflamación,J001,cuidados de la salud
+J028,Medicamentos recetados para: otras infecciones (antibióticos),J001,cuidados de la salud
+J029,Medicamentos recetados para: dolor de cabeza y migraña,J001,cuidados de la salud
+J030,Medicamentos recetados para: otro tipo de dolores,J001,cuidados de la salud
+J031,Medicamentos recetados para: presión arterial,J001,cuidados de la salud
+J032,Medicamentos recetados para: diabetes,J001,cuidados de la salud
+J033,Medicamentos recetados para: vitaminas,J001,cuidados de la salud
+J034,Medicamentos recetados para: anticonceptivos,J001,cuidados de la salud
+J035,Otros medicamentos recetados,J001,cuidados de la salud
+J036,Consultas médicas para el control de peso,J001,cuidados de la salud
+J037,Medicamentos y productos para el control de peso,J001,cuidados de la salud
+J038,Tratamiento para el control de peso,J001,cuidados de la salud
+J039,"Honorarios por servicios profesionales: cirujano, anestesista, etcétera",J001,cuidados de la salud
+J040,Hospitalización,J001,cuidados de la salud
+J041,"Análisis clínicos y estudios médicos (rayos X, electros, etcétera)",J001,cuidados de la salud
+J042,Medicamentos recetados y material de curación,J001,cuidados de la salud
+J043,"Otros: servicios de ambulancia, oxígeno, suero, sondas, bolsas de diálisis y de orina, cómodos, nebulizaciones, etcétera",J001,cuidados de la salud
+J044,"Medicamentos sin receta para: diarrea, infecciones y malestar estomacal",J001,cuidados de la salud
+J045,Medicamentos sin receta para: gripe,J001,cuidados de la salud
+J046,Medicamentos sin receta para: piel,J001,cuidados de la salud
+J047,Medicamentos sin receta para: alergias,J001,cuidados de la salud
+J048,Medicamentos sin receta para: tos,J001,cuidados de la salud
+J049,Medicamentos sin receta para: infecciones de la garganta,J001,cuidados de la salud
+J050,Medicamentos sin receta para: fiebre,J001,cuidados de la salud
+J051,Medicamentos sin receta para: inflamación,J001,cuidados de la salud
+J052,Medicamentos sin receta para: otras infecciones (antibiótico),J001,cuidados de la salud
+J053,Medicamentos sin receta para: dolor de cabeza y migraña,J001,cuidados de la salud
+J054,Medicamentos sin receta para: otro tipo de dolores,J001,cuidados de la salud
+J055,Medicamentos sin receta para: vitaminas,J001,cuidados de la salud
+J056,Medicamentos sin receta para: presión arterial,J001,cuidados de la salud
+J057,Medicamentos sin receta para: diabetes,J001,cuidados de la salud
+J058,Medicamentos sin receta para: anticonceptivos,J001,cuidados de la salud
+J059,Otros medicamentos sin receta,J001,cuidados de la salud
+J060,"Algodón, gasas, vendas, jeringas, etcétera",J001,cuidados de la salud
+J061,"Alcohol, merthiolate, solución antiséptica, botiquín de primeros auxilios, etcétera",J001,cuidados de la salud
+J062,"Consultas con el curandero, huesero, quiropráctico, etcétera",J001,cuidados de la salud
+J063,"Medicamentos naturistas, hierbas medicinales, remedios caseros, Omnilife, Herbalife",J001,cuidados de la salud
+J064,Medicamentos homeopáticos,J001,cuidados de la salud
+J065,Anteojos y lentes de contacto e intraoculares,J001,cuidados de la salud
+J066,Aparatos para sordera,J001,cuidados de la salud
+J067,"Aparatos ortopédicos y para terapia, silla de ruedas, andadera, muletas, etcétera",J001,cuidados de la salud
+J068,Reparación y mantenimiento de aparatos ortopédicos,J001,cuidados de la salud
+J069,"Otros: pago de enfermeras y personal al cuidado de enfermos, terapias, baumanómetro, glucómetro, tiras reactivas, cómodo, etcétera",J001,cuidados de la salud
+J070,Cuotas a hospitales o clínicas,J001,cuidados de la salud
+J071,Cuotas a compañías de seguros,J001,cuidados de la salud
+J072,Cuotas de seguro popular,J001,cuidados de la salud
+K001,Ventilador,K001,enseres domesticos y mantenimiento de la vivienda
+K002,Aparatos telefónicos,K001,enseres domesticos y mantenimiento de la vivienda
+K003,"Identificador de llamadas, fax, etcétera",K001,enseres domesticos y mantenimiento de la vivienda
+K004,Aparatos de aire acondicionado para casa (incluye refrigeración o clima),K001,enseres domesticos y mantenimiento de la vivienda
+K005,Máquina de coser y accesorios,K001,enseres domesticos y mantenimiento de la vivienda
+K006,Cocina integral,K001,enseres domesticos y mantenimiento de la vivienda
+K007,Estufa de gas,K001,enseres domesticos y mantenimiento de la vivienda
+K008,"Estufa de otro combustible: electricidad, petróleo (estufa SEDESOL)",K001,enseres domesticos y mantenimiento de la vivienda
+K009,Refrigerador,K001,enseres domesticos y mantenimiento de la vivienda
+K010,Licuadora,K001,enseres domesticos y mantenimiento de la vivienda
+K011,Batidora,K001,enseres domesticos y mantenimiento de la vivienda
+K012,Plancha,K001,enseres domesticos y mantenimiento de la vivienda
+K013,Extractor de jugos,K001,enseres domesticos y mantenimiento de la vivienda
+K014,Horno de microondas,K001,enseres domesticos y mantenimiento de la vivienda
+K015,Lavadora,K001,enseres domesticos y mantenimiento de la vivienda
+K016,Aspiradora,K001,enseres domesticos y mantenimiento de la vivienda
+K017,Calentador de gas,K001,enseres domesticos y mantenimiento de la vivienda
+K018,Calentador de otro combustible,K001,enseres domesticos y mantenimiento de la vivienda
+K019,Lámparas eléctricas (incluye candiles),K001,enseres domesticos y mantenimiento de la vivienda
+K020,"Lámparas de otro combustible, lámpara de mano (sorda)",K001,enseres domesticos y mantenimiento de la vivienda
+K021,Tanque de gas e instalación,K001,enseres domesticos y mantenimiento de la vivienda
+K022,"Lavadero, tinaco y bomba de agua",K001,enseres domesticos y mantenimiento de la vivienda
+K023,Compra e instalación de paneles solares y planta de luz propia,K001,enseres domesticos y mantenimiento de la vivienda
+K024,"Otros aparatos: tostador, calefactor, horno eléctrico, cafetera eléctrica, fuente de chocolate, etcétera",K001,enseres domesticos y mantenimiento de la vivienda
+K025,"Reparación, y/o mantenimiento de los artículos anteriores",K001,enseres domesticos y mantenimiento de la vivienda
+K026,Juego de recámara,K001,enseres domesticos y mantenimiento de la vivienda
+K027,"Piezas sueltas de recámara: camas, tocadores, literas, buró, etcétera",K001,enseres domesticos y mantenimiento de la vivienda
+K028,Juego de comedor o antecomedor,K001,enseres domesticos y mantenimiento de la vivienda
+K029,"Piezas sueltas para comedor o antecomedor (mesas, sillas)",K001,enseres domesticos y mantenimiento de la vivienda
+K030,Juego de sala,K001,enseres domesticos y mantenimiento de la vivienda
+K031,Piezas sueltas para sala (mesa de centro),K001,enseres domesticos y mantenimiento de la vivienda
+K032,"Muebles para cocina (gabinete, mesa, etcétera)",K001,enseres domesticos y mantenimiento de la vivienda
+K033,"Muebles para baño (taza, tina, tina de hidromasaje, etcétera",K001,enseres domesticos y mantenimiento de la vivienda
+K034,Muebles para jardín,K001,enseres domesticos y mantenimiento de la vivienda
+K035,Alfombras y tapetes,K001,enseres domesticos y mantenimiento de la vivienda
+K036,"Otros muebles: libreros, escritorio, mesa para televisión, clóset, cuna, corral, periquera, burro de planchar",K001,enseres domesticos y mantenimiento de la vivienda
+K037,Reparación y/o mantenimiento de los artículos anteriores,K001,enseres domesticos y mantenimiento de la vivienda
+K038,Materiales para reparación y mantenimiento,K001,enseres domesticos y mantenimiento de la vivienda
+K039,Servicios de reparación y mantenimiento,K001,enseres domesticos y mantenimiento de la vivienda
+K040,"Materiales para ampliación, construcción y remodelación, baño ecológico",K001,enseres domesticos y mantenimiento de la vivienda
+K041,"Servicios para ampliación, construcción y remodelación",K001,enseres domesticos y mantenimiento de la vivienda
+K042,Materiales para reparación y mantenimiento,K002,"mantenimiento, reparacion, ampliacion, construccion y remodelacion de vivienda que no habita el hogar"
+K043,Servicios de reparación y mantenimiento,K002,"mantenimiento, reparacion, ampliacion, construccion y remodelacion de vivienda que no habita el hogar"
+K044,"Materiales para ampliación, construcción y remodelación",K002,"mantenimiento, reparacion, ampliacion, construccion y remodelacion de vivienda que no habita el hogar"
+K045,"Servicios para ampliación, construcción y remodelación",K002,"mantenimiento, reparacion, ampliacion, construccion y remodelacion de vivienda que no habita el hogar"
+L001,Radio y radio despertador,L001,articulos esparcimiento
+L002,Estéreo y modular,L001,articulos esparcimiento
+L003,Grabadora,L001,articulos esparcimiento
+L004,Televisión blanco y negro (incluye portátil),L001,articulos esparcimiento
+L005,"Televisión color (incluye portátil), LCD y plasma",L001,articulos esparcimiento
+L006,Lector de DVD y Blu-Ray (incluye portátil),L001,articulos esparcimiento
+L007,"Computadora, tabletas",L001,articulos esparcimiento
+L008,"Accesorios para computadora (mouse, memorias usb, etcétera)",L001,articulos esparcimiento
+L009,"Decodificador de T.V., control remoto, etcétera",L001,articulos esparcimiento
+L010,"Accesorios: bocinas, audífonos, antena aérea, control remoto",L001,articulos esparcimiento
+L011,"Videocasetes, cartuchos y discos para videojuegos, tarjetas",L001,articulos esparcimiento
+L012,"Reproductor de discos compactos, MP3 y Ipod",L001,articulos esparcimiento
+L013,"Reproductor de discos compactos, DVD para vehículos y autoestéreo",L001,articulos esparcimiento
+L014,"Alquiler de televisión, videocaseteras, computadoras, etcétera",L001,articulos esparcimiento
+L015,"Otros aparatos: Walkman, etcétera",L001,articulos esparcimiento
+L016,Reparación y/o mantenimiento de los artículos anteriores,L001,articulos esparcimiento
+L017,Proyectores,L001,articulos esparcimiento
+L018,Cámaras fotográficas y de video,L001,articulos esparcimiento
+L019,"Material fotográfico, películas",L001,articulos esparcimiento
+L020,"Servicio fotográfico, revelado e impresión",L001,articulos esparcimiento
+L021,"Otros artículos y servicios: tripié, alquiler de equipo, proyectores, etcétera",L001,articulos esparcimiento
+L022,Reparación y mantenimiento de los artículos anteriores,L001,articulos esparcimiento
+L023,"Juguetes, juegos de mesa, globos de helio, peluches, bicicletas, patinetas, patines",L001,articulos esparcimiento
+L024,"Juegos electrónicos, videojuegos",L001,articulos esparcimiento
+L025,Instrumentos musicales,L001,articulos esparcimiento
+L026,"Artículos de deporte y cacería (aparatos para ejercicio, etcétera), balón de fútbol, alberca inflable",L001,articulos esparcimiento
+L027,"Artículos de jardinería: plantas, flores, macetas, tierra, abono, arreglos florales naturales, fertilizantes",L001,articulos esparcimiento
+L028,Reparación y/o mantenimiento de los artículos anteriores.,L001,articulos esparcimiento
+L029,"Compra y cuidado de animales domésticos: patos, perros, peces, gallinas, pollitos, caballos de recreación, accesorios, consultas veterinarias, etcétera",L001,articulos esparcimiento
+M001,Transporte foráneo,M001,transporte
+M002,Transporte ferroviario,M001,transporte
+M003,Transporte aéreo,M001,transporte
+M004,Servicio de carga y mudanza,M001,transporte
+M005,Cuotas de autopista,M001,transporte
+M006,"Otros: lancha, barco, carreta, alquiler de vehículos, etcétera",M001,transporte
+M007,Automóvil y/o guayín,M002,adquisicion transporte particular motorizado
+M008,Camioneta (pick up),M002,adquisicion transporte particular motorizado
+M009,"Motoneta, motocicleta",M002,adquisicion transporte particular motorizado
+M010,Bicicleta,M001,transporte
+M011,"Otros: remolque, lancha, triciclo, etcétera",M002,adquisicion transporte particular motorizado
+M012,Llantas,F002,"combustible, matenimiento, servicios y refacciones vehiculos"
+M013,Acumulador,F002,"combustible, matenimiento, servicios y refacciones vehiculos"
+M014,"Refacciones: bujías, bandas, filtros, etcétera",F002,"combustible, matenimiento, servicios y refacciones vehiculos"
+M015,"Partes de vehículos: vidrios, salpicaderas, etcétera",F002,"combustible, matenimiento, servicios y refacciones vehiculos"
+M016,"Accesorios: espejos, manijas, antenas, etcétera",F002,"combustible, matenimiento, servicios y refacciones vehiculos"
+M017,"Servicios de afinación, alineación y balanceo",F002,"combustible, matenimiento, servicios y refacciones vehiculos"
+M018,"Otros servicios: ajuste de motor, de frenos, hojalatería, pintura, reparación de caja de velocidades, cambio de aceite, etcétera",F002,"combustible, matenimiento, servicios y refacciones vehiculos"
+N001,"Servicios profesionales de abogados, notarios, arquitectos, etcétera (no médicos)",N001,otros gastos
+N002,"Funerales y cementerios, cruz de madera",N001,otros gastos
+N003,"Paquetes para fiesta (salón, comida, orquesta, ropa y accesorios para el festejado), serenatas",N001,otros gastos
+N004,"Gastos turísticos: paquetes, hospedajes, alimentos, tours, etcétera",N001,otros gastos
+N005,Hospedaje o alojamiento sin fines turísticos (con o sin alimentos),N001,otros gastos
+N006,Gastos en cargos comunales para festividades locales,N001,otros gastos
+N007,Contribuciones para obras del servicio público local,N001,otros gastos
+N008,Seguro de automóvil,N001,otros gastos
+N009,"Seguros contra incendio, daños y riesgos para la vivienda, educación y seguro de vida (no capitalizable)",N001,otros gastos
+N010,"Otros gastos diversos no comprendidos en las categorías anteriores, piñata, globos",N001,otros gastos
+N011,Indemnizaciones pagadas a terceros,N001,otros gastos
+N012,Pérdidas y robos en dinero (excluya negocios),N001,otros gastos
+N013,"Ayuda a parientes y personas ajenas al hogar, pago de renta a otro hogar",N001,otros gastos
+N014,"Contribuciones a instituciones benéficas en dinero, iglesias, cruz roja, incluye servicios eclesiásticos",N001,otros gastos
+N015,"Servicios del sector público: expedición de pasaporte, actas, títulos, etcétera",N001,otros gastos
+N016,"Trámites para vehículos: licencias, placas, verificación vehicular, etcétera",N001,otros gastos
+Q001,"Depósitos en cuentas de ahorro, tandas, cajas de ahorro, etcétera",Q001,ahorro
+Q002,Préstamos a personas ajenas al hogar,Q002,"pago prestamos, tarjetas, intereses"
+Q003,Pagos a tarjeta de crédito bancaria o comercial (incluye intereses),Q002,"pago prestamos, tarjetas, intereses"
+Q004,Pago de deudas a la empresa donde trabajan y/o a otras personas o instituciones (excluya créditos hipotecarios),Q002,"pago prestamos, tarjetas, intereses"
+Q005,Pago de intereses por préstamos recibidos,Q002,"pago prestamos, tarjetas, intereses"
+Q006,"Compra de monedas nacionales o extranjeras, metales precioso",Q003,seguros e inversiones
+Q007,Seguro de vida capitalizable,Q003,seguros e inversiones
+Q008,"Herencias, dotes y legados",Q004,herencias
+Q009,"Compra de casas, condominios, locales o terrenos que no habita el hogar",Q003,seguros e inversiones
+Q010,"Compra de terrenos, casas o condominios que habita el hogar",Q003,seguros e inversiones
+Q011,"Pago de hipotecas de bienes inmuebles: casas, locales, terrenos, edificios, etcétera",Q002,"pago prestamos, tarjetas, intereses"
+Q012,Otras erogaciones no consideradas en las preguntas anteriores,Q002,"pago prestamos, tarjetas, intereses"
+Q013,"Compra de maquinaria, equipo, animales destinados a la reproducción, utilizados en negocios del hogar",Q005,inversiones para negocio
+Q014,Balance negativo en negocios del hogar agropecuarios y no agropecuarios,Q005,inversiones para negocio
+Q015,"Compra de valores: cédulas, acciones y bonos",Q003,seguros e inversiones
+Q016,"Compra de marcas, patentes y derechos de autor",Q003,seguros e inversiones
+Q100,Pago de la vivienda propia y que se está pagando,Q006,hipoteca
+R001,Energía eléctrica,R001,recibos
+R002,Agua,R001,recibos
+R003,Gas natural,R001,recibos
+R004,Impuesto predial,R001,recibos
+R005,Largas distancias de línea particular,R001,recibos
+R006,Llamadas locales de línea particular,R001,recibos
+R007,Teléfonos celulares (plan mensual),R001,recibos
+R008,Internet,R001,recibos
+R009,Televisión de paga,R001,recibos
+R010,Paquete de Internet y teléfono,R001,recibos
+R011,"Paquete de Internet, teléfono y televisión de paga",R001,recibos
+R012,Tenencia vehicular,R001,recibos
+R013,Alarmas para la casa,R001,recibos
+T901,"Alimentos, bebidas y tabaco",A003,bebidas alcoholicas y tabaco
+T902,Transporte (pasajes),B001,transporte publico
+T903,Artículos o servicios destinados a la limpieza y cuidados de la casa,C001,articulos hogar
+T904,Artículos o servicios destinados a cuidados personales,D001,cuidado personal
+T905,"Artículos o servicios destinados a educación, cultura y recreación",E003,cultura y recreacion
+T906,Artículos o servicios destinados a la comunicación y servicios para vehículos,F002,"combustible, matenimiento, servicios y refacciones vehiculos"
+T907,Artículos o servicios destinados a vivienda y servicios de conservación,K001,enseres domesticos y mantenimiento de la vivienda
+T908,Último recibo pagado,R001,recibos
+T909,"Prendas de vestir, calzado y accesorios",H001,"vestimenta, calzado y accesorios personales"
+T910,"Cristalería, blancos y utensilios domésticos",I001,"cristaleria, blancos y articulos domesticos"
+T911,Artículos o servicios destinados a cuidados de la salud,J001,cuidados de la salud
+T912,Enseres domésticos y mantenimiento de la vivienda,K001,enseres domesticos y mantenimiento de la vivienda
+T913,Artículos de esparcimiento,L001,articulos esparcimiento
+T914,Artículos o servicios destinados al transporte,M001,transporte
+T915,Gastos diversos,N001,otros gastos
+T916,Erogaciones financieras y de capital,Q003,seguros e inversiones
