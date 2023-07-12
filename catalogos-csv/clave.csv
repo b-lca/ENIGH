@@ -213,14 +213,14 @@ A211,"Otros gastos relacionados con la preparación de alimentos, cal para nixta
 A212,"Alimentos y/o bebidas en paquete, despensa de alimentos que otorgan otros hogares",A001,abarrotes
 A213,Alimento para animales domésticos,A001,abarrotes
 A214,Alimento para animales para uso del hogar,A001,abarrotes
-A215,Agua natural embotellada,A002,bebidas no alcholicas
-A216,"Agua mineral, quina, desmineralizada con o sin sabor",A002,bebidas no alcholicas
-A217,Agua preparada y jugos naturales,A002,bebidas no alcholicas
-A218,Jugos y néctares envasados,A002,bebidas no alcholicas
-A219,Concentrados y polvos para preparar bebidas,A002,bebidas no alcholicas
-A220,Refrescos de cola y de sabores,A002,bebidas no alcholicas
-A221,Bebida energética,A002,bebidas no alcholicas
-A222,"Hielo, Jarabe natural, lechugilla, sangrita, tascalate",A002,bebidas no alcholicas
+A215,Agua natural embotellada,A001,abarrotes
+A216,"Agua mineral, quina, desmineralizada con o sin sabor",A001,abarrotes
+A217,Agua preparada y jugos naturales,A001,abarrotes
+A218,Jugos y néctares envasados,A001,abarrotes
+A219,Concentrados y polvos para preparar bebidas,A001,abarrotes
+A220,Refrescos de cola y de sabores,A001,abarrotes
+A221,Bebida energética,A001,abarrotes
+A222,"Hielo, Jarabe natural, lechugilla, sangrita, tascalate",A001,abarrotes
 A223,Coñac y brandy,A003,bebidas alcoholicas y tabaco
 A224,Cerveza,A003,bebidas alcoholicas y tabaco
 A225,Anís (licor),A003,bebidas alcoholicas y tabaco
